@@ -1,0 +1,387 @@
+Research article
+Clinical sequencing reveals diagnostic, therapeutic, and prognostic 
+biomarkers for adult-type diffuse gliomas
+Zhenyan Lia,b, Zhenghao Dengc, Fangkun Liua,b, Chuntao Lia,b, Kui Yanga,b, 
+Xuan Gonga,b, Songshan Fenga,b, Yu Zenga,b, Hongshu Zhoua,b, Fan Fana,b, 
+Chengke Luoa,b, Zhixiong Liua,b, Mingyu Zhanga,b,*
+aDepartment of Neurosurgery, Xiangya Hospital Central South University, Changsha, 410008, China
+bNational Clinical Research Center for Geriatric Disorders, Xiangya Hospital Central South University, Changsha, 410008, China
+cDepartment of Pathology, Xiangya Hospital Central South University, Changsha, 410008, China
+ARTICLE INFO
+Keywords:
+Diffuse glioma
+Whole exome sequencing
+Genomic profiling
+Prognostic biomarkerABSTRACT
+Diffuse gliomas in adults are highly infiltrative and largely incurable. Whole exome sequencing 
+(WES) has been demonstrated very useful in genetic analysis. Here WES was performed to 
+characterize genomic landscape of adult-type diffuse gliomas to discover the diagnostic, thera -
+peutic and prognostic biomarkers. Somatic and germline variants of 66 patients with adult-type 
+diffuse gliomas were detected by WES based on the next-generation sequencing. TCGA and CGGA 
+datasets were included to analyze the integrated diagnosis and prognosis. Among 66 patients, the 
+diagnosis of 9 cases was changed, in which 8 cases of astrocytoma were corrected into IDH- 
+wildtype glioblastoma (GBM), and 1 oligodendroglioma without 1p/19q co-deletion into astro-
+cytoma. The distribution of mutations including ATRX/TP53 differed in three cohorts. The ge-
+netic mutations in GBM mainly concentrated on the cell cycle, PI3K and RTK pathways. The 
+mutational landscape of astrocytoma was more similar to that of GBM, with the highest frequency 
+in germline variants. Patients with IDH-mutant astrocytoma harboring SNVs of PIK3CA and 
+PIK3R1 showed a significantly worse overall survival (OS) than wild-type patients. AEBP1 
+amplification was associated with shorter OS in GBM. Our study suggests that clinical sequencing 
+can recapitulate previous findings, which may provide a powerful approach to discover diag-
+nostic, therapeutic and prognostic markers for precision medicine in adult-type diffuse gliomas.
+1.Background
+Gliomas are the most common brain malignancies, approximately accounting for 30 % of all primary brain tumors [1]. Due to the 
+anatomic location in the brain, significant intratumoral heterogeneity, and fast developed therapy resistance, gliomas represent one of 
+the most challenging malignancies [2]. The median survival time of glioma patients is 14–20 months even with standard of care 
+therapeutics, which involves surgery, radiation, and/or chemotherapy. Gliomas are traditionally divided into histological grades I-IV. 
+Recent advances in diagnostics and understanding of glioma molecular background have revolutionized its classification. Low grade 
+glioma has been referred to grades I and II tumors while high grade glioma to grades III and IV. With advances in diagnostics and 
+clinical experience, grade III IDH mutant gliomas are now considered lower grade gliomas in light of the patients ’ long survival time 
+*Corresponding author. Department of Neurosurgery, Xiangya Hospital Central South University, No.87 Xiangya Road, Changsha, 410008, China.
+E-mail address: hncszmy@163.com (M. Zhang). 
+Contents lists available at ScienceDirect
+Heliyon
+u{�~zkw! s{yo|kr o>!ÐÐÐ1moww1m{ y2sowtÞ{z
+https://doi.org/10.1016/j.heliyon.2024.e37712
+Received 19 June 2024; Received in revised form 3 September 2024; Accepted 9 September 2024  Heliyon  10 (2024)  e37712  
+Available  online  11 September  2024  
+2405-8440/©  2024  The Authors.  Published  by Elsevier  Ltd. This is an open access  article  under  the CC BY-NC-ND  license  
+( http://creativecommons.org/licenses/by-nc-nd/4.0/  ). [3]. Adult-type diffuse gliomas are a group of gliomas with varying prognosis depending on the subtype and histology grade [4].
+Molecular biomarkers have been proposed to define central nervous system (CNS) tumor entities in addition to histopathology 
+since 2016 World Health Organization (WHO) classification of the CNS tumors [5]. Plentiful molecular parameters with clinico -
+pathologic utility that play important roles in accurate diagnosis are also incorporated in 2021 WHO classification of the CNS tumors 
+(CNS5) [6]. The diagnostic alterations not only offer a reference for targeted treatment, but also are important for prognostic 
+assessment [7]. According to IDH1/2 and chromosome 1p/19q codeletion, adult-type diffuse gliomas are classified as IDH-mutant, 
+1p/19q codeleted oligodendroglioma; IDH-mutant, non-codeleted astrocytoma and IDH-wildtype (WT) GBM [8]. The molecular 
+features of IDH-mutant, 1p/19q codeleted oligodendroglioma include CIC, TERT p, FUBP1 , and NOTCH1 , among which CIC and FUBP1 
+mutations are uncorrelated with overall survival (OS) in oligodendroglioma, while NOTCH1 mutations are significantly associated 
+with worse OS [9]. ATRX and TP53 inactivating mutations occur frequently in IDH-mutant astrocytoma, and homozygous deletion of 
+cyclin-dependent kinase inhibitor (CDKN2A/B ) is significantly associated with shorter OS [10]. The molecular characters of IDH-WT 
+GBM are TERT p, gain of chromosome 7 and loss of chromosome 10 (7/-10), and EGFR amplification [11]. In the WHO CNS5, the 
+definition of tumor entities is emphasized using a few critical biomarkers except for morphology [12]. More alterations in key 
+pathways still need to be identified to guide the patients appropriate for promising targeted therapies.
+Whole exome sequencing (WES) based on next-generation sequencing (NGS) has been proven remarkably useful in genetic analysis 
+appropriate for both screening previously investigated and novel significant variants [13]. The mutational landscape of gliomas is 
+complex [14]. Therefore, it is clinically necessary to acquire comprehensive genomic data using WES for exploring diagnostic, 
+prognostic and predictive biomarkers [15]. In the current study, we utilized WES to characterize genomic landscape of 66 patients with 
+adult-type gliomas to discover the mutational biomarkers for precise diagnosis and potential treatment options for adult-type gliomas.
+2.Materials and methods
+2.1. Sample and clinical data collection
+The clinical data of 66 patients with adult-type diffuse gliomas were collected at Xiangya Hospital from January 2018 to December 
+2021. Formalin-fixed paraffin-embedded (FFPE) tumor samples obtained by surgical resection were used for integrated histological 
+and molecular diagnosis. Collection and analysis of the samples were approved by the Institutional Review Board of Xiangya Hospital 
+Central South University, and were in accordance with local regulations and principles of Helsinki Declaration. Written informed 
+consent forms were obtained from all patients for research, without restriction. Meanwhile, 824 and 144 patients with primary adult- Abbreviations
+GBM glioblastoma
+CNS center nervous system
+WHO World Health Organization
+WT wildtype
+OS overall survival
+WES whole exome sequencing
+NGS next-generation sequencing
+FFPE formalin-fixed paraffin-embedded
+TCGA The Cancer Genome Atlas
+CGGA The Chinese Glioma Genome Atlas
+BWA Burrows-Wheeler Alignment
+SNVs single nucleotide variants
+InDels insertions and deletions
+CNVs copy number variants
+OR odds ratio
+CI confidence interval
+HR hazard ratio
+FA fanconi anaemia
+HR homologous recombination
+NEJM non-homologous end joining
+BER base excision repair
+DR direct repair
+MMR mismatch repair
+NER nucleotide excision
+TLS translesion synthesis
+FISH fluorescence in situ hybridization
+TKIs tyrosine kinase inhibitors; mAb: monoclonal antibodiesZ. Li et al.                                                                                                                                                                                                               Heliyon  10 (2024)  e37712  
+2 type diffuse gliomas who had determined IDH and 1p/19q status were collected from The Cancer Genome Atlas (TCGA) database and 
+The Chinese Glioma Genome Atlas (CGGA), respectively.
+2.2. WES
+For each patient, genomic DNA from FFPE and paired blood control samples was extracted using Qiagen DNAeasy kits (Qiagen, 
+USA). DNA was eluted and stored at  20 •C for further use. The quantification of DNA was done using Qubit 2.0 Fluorometer (Life 
+Technologies, USA). Fragment analysis was done with the Agilent Genomic DNA ScreenTape assay kit on an Agilent 4200 TapeStation 
+system (Agilent Technologies, USA). KAPA Hyper Prep Kit (KAPA Biosystems, USA) was used to prepare the sequencing libraries 
+following the manufacturer ’s protocol. DNA was fragmented using enzymes, end prepped, ligated with adaptors and amplified. Hy-
+bridization was performed with Agilent Technologies SureSelect Human All Exon version 5 (Agilent Technologies, USA). Quantity and 
+quality of libraries was evaluated with Qubit dsDNA HS assay (Thermo Fisher, Cat. Q32854). Subsequently, the library size distribution 
+was assessed using the Agilent 4200 TapeStation system (Agilent Technologies, USA). Sequencing was performed on an Illumina 
+NovaSeq 6000 apparatus (Illumina Inc., USA) with paired-end sequencing. The mean target coverage was set at 300x for tumor 
+samples and 100x for paired normal samples.
+2.3. Bioinformatics workflow
+Data quality was evaluated with FastQC (v0.11.9). Adapters and low-quality reads were removed using fastp (v0.20). Sequencing 
+reads were mapped to the human refence genome (hg19) using Burrows-Wheeler Alignment (BWA)-maximal exact matches algorithm, 
+and default parameters were created to compress BAM files. The Genome Analysis Toolkit was used to realign the BAM files to improve 
+the quality of alignment. Mutations including single nucleotide variants (SNVs), and insertions and deletions (InDels) were tested via 
+Vardict [16], and their biological functions were annotated by ANNOVAR [17]. Synonymous mutations were not included in the 
+mutation analysis. Known germline SNVs with a population frequency greater than 0.015 in databases such as dbSNP, 1000 Genomes, 
+and ESP6500 were excluded from the analysis. Copy number variants (CNVs) were identified using CNVkit [18].
+2.4. Statistical analysis
+The differences of mutational frequencies and clinical factors were calculated by the two-sided Fisher ’s exact test, and the odds 
+ratio (OR) with 95 % confidence interval (CI) was provided. Kaplan-Meier analysis based on log-rank test was executed to estimate 
+survival curves, and the hazard ratio (HR) with 95 % CI was calculated using the Cox proportional hazards model. P D0.05 was 
+considered statistically significant for all hypothesis tests. All the statistical analyses and graphics were managed by computing 
+software R v4.0.3.
+Table 1 
+Baseline characteristics of the adult-type diffuse gliomas in three cohorts, n (%).
+Characteristics Xiangya cohort (n 66) TCGA (n 824) CGGA (n 144)
+Sex
+Male 42 (63.64) 448 (54.37) 83 (57.64)
+Female 24 (36.36) 310 (37.62) 61 (42.36)
+Unknown 0 66 (8.01) 0
+Age, years 50 (25–69) 51 (18–89) 42 (19–76)
+Histology
+Oligodendroglioma 9 (13.64) 172 (20.87) 22 (15.28)
+Astrocytoma 22 (33.33) 168 (20.39) 64 (44.44)
+Glioblastoma 35 (53.03) 305 (37.01) 48 (33.33)
+Oligoastrocytoma 0 113 (13.71) 10 (6.94)
+Unknown 0 66 (8.01) 0
+Integrated diagnosis
+Oligodendroglioma 8 (12.12) 168 (20.39) 28 (19.44)
+Astrocytoma 15 (22.73) 259 (31.43) 26 (18.06)
+Glioblastoma 43 (65.15) 397 (48.18) 90 (62.5)
+MGMT status
+Methylated 28 (42.42) 529 (64.20) 54 (37.5)
+Unmethylated 29 (43.94) 238 (28.88) 34 (23.61)
+Missing 9 (13.64) 58 (7.04) 56 (38.89)
+Status
+Dead 13 (19.70) 276 (33.50) 68 (47.22)
+Alive 11 (16.67) 481 (58.37) 70 (48.61)
+Unknown 42 (63.64) 67 (8.13) 6 (4.17)
+Abbreviations: O6-methylguanine-DNA methyltransferase, MGMT.Z. Li et al.                                                                                                                                                                                                               Heliyon  10 (2024)  e37712  
+3 3.Results
+3.1. Patient characteristics
+The clinical information of 66 patients with adult-type diffuse gliomas was summarized in Table 1. Male-to-female ratio was 1.75:1. 
+The median age at diagnosis was 50 years (range: 25–69 years). Among 66 cases, 9 were diagnosed as oligodendroglioma, 22 as 
+astrocytoma and 35 as GBM based on histopathology. According to the WHO CNS5, 8 cases were diagnosed as IDH-mutant, 1p/19q 
+codeleted oligodendroglioma, 15 as IDH-mutant astrocytoma, and 43 as IDH-WT GBM (Fig. 1). Notably, due to assessment of IDH 
+status, diagnoses of 9 IDH-WT patients were changed to GBM. In contrast, the diagnosis of one patient harboring IDH1 R132H was 
+changed to astrocytoma. In addition, one case without 1p/19q codeletion was reconsidered as astrocytoma (Fig. S1A-C ).
+According to the molecular features including IDH and 1p/19q status, oligoastrocytoma was divided into oligodendroglioma, 
+astrocytoma and GBM. As shown in Table 1, the proportion of patients with oligodendroglioma in CGGA and TCGA database was 
+relatively higher. Additionally, lower-grade gliomas evaluated by histology with high-risk markers were corrected as GBM in three 
+cohorts.
+3.2. Mutational prevalence across glioma subtypes
+High-frequency SNVs in adult-type diffuse glioma were depicted in Fig. 2. TP53 was the most commonly mutated gene, followed by 
+TERT , IDH1 , ATRX , NF1, PTEN , TTN, EGFR , RYR2 and CIC (Fig. 2A). TERTp was identified in three subtypes, more common in oli-
+godendroglioma (7/8) and GBM (14/43). SNVs in TTN and RYR2 were also found in all subtypes and cohorts. EGFR and CIC SNVs were 
+mainly detected in GBM and oligodendroglioma (Fig. 2B). ATRX and TP53 mutations were the molecular features of astrocytoma, but 
+their VAFs were insignificant between astrocytoma and GBM (Fig. 2C–D). The mutational burden of high-grade IDH wild-type glioma 
+was significantly higher than that of low-grade IDH wild-type glioma (p 0.022, Fig. S2).
+3.3. SNVs, InDels and CNVs in driver genes
+Multiple alterations occurred in driver genes EGFR , MET, PTEN , CDKN2A and CDKN2B . Three patients with GBM harbored both 
+EGFR amplification and SNV, and two patients with astrocytoma harbored MET SNV and gain (Fig. 3A). Unlike R132 as the pre-
+dominant variant of IDH1 in astrocytoma and oligodendroglioma, the alterations in EGFR distributed evenly. However, more muta -
+tions were in the extracellular domain of EGFR rather than the tyrosine kinase domain. Rare IDH1 R132 L/G and E240Q were also 
+found in astrocytoma (Fig. 3B). Additionally, TP53 and ATRX somatic mutations were also located in the genes, but R273 was rela-
+tively high in TP53 (Fig. S3A, B). CDKN2A/CDKN2B homozygous co-deletion occurred in 13 out of 43 cases, but sometimes altered in 
+one of them (Fig. 3C).
+Fig. 1.Schematic illustration of diagnosis changes in 66 patients with adult-type diffuse glioma. Histopathological diagnosis was based on 2016 
+WHO classification of the CNS tumors (left), and was reclassified based on 2021 WHO classification of the CNS tumors (right).Z. Li et al.                                                                                                                                                                                                               Heliyon  10 (2024)  e37712  
+4 3.4. Mutational landscape of key glioma pathways
+A list of driver genes was grouped into carcinogenic pathways in the 66 patients (Fig. 4). The alterations in GBM, relatively more 
+malignant type, were distributed in each pathway including p53/RB, DDR, RTK, PI3K, and RAS/MAPK, among which mutations in 
+RTK, PI3K and RAS pathways were most common. Astrocytoma had a more similar mutational landscape to GBM than oligoden -
+droglioma, with numerous mutations in cell cycle and RTK pathways. TERTp, CIC, NOTCH1 and MYC alterations were the charac -
+teristic markers of oligodendroglioma (Fig. 4).
+3.5. Germline variants in DDR pathway
+Most germline variants occurred in the genes associated with DDR in cancer. DDR pathway contained multiple repair mechanisms 
+including Fanconi anaemia (FA), homologous recombination (HR), non-homologous end joining (NEJM), base excision repair (BER), 
+direct repair (DR), mismatch repair (MMR), nucleotide excision (NER) and translesion synthesis (TLS). Almost all germline variants 
+were heterozygous except MSH3 in a patient with GBM (Fig. 5A). SLX4, BRCA2, FANCI, RECQL4, MSH6 and POLD1 were the genes 
+commonly with germline variants. Three mutations in BRCA2 including S973L, G2508S and M3234V were evaluated as uncertain 
+significance by InterVar (Fig. S3C). Unlike the somatic variants, germline variants occurred most frequently in oligodendroglioma than 
+GBM and astrocytoma (Fig. 5B). The number of mutations in HRR and FA were all high in three subtypes (Fig. 5C).
+Fig. 2.Mutational prevalence across subtypes. (A) A summary of gene mutations in 66 patients; (B) The mutational frequencies of common genes in 
+our cohort and two public databases; (C) Comparison of the mutational frequency of TP53 and ATRX between astrocytoma and GBM.Z. Li et al.                                                                                                                                                                                                               Heliyon  10 (2024)  e37712  
+5 Fig. 3.Multiple types of genetic alterations in adult-type diffuse gliomas. (A) The mutational types of driver genes in GBM and astrocytoma; (B) The 
+spectrum of variants in EGFR and IDH1; (C) Co-deletion of CDNKN2A and CDNKN2B.
+Fig. 4.Genomic landscape of key pathways. A list of driver genes was grouped into the pathways and color coded based on the function of the 
+protein product. Intergraded diagnosis was made at the bottom of the heatmap.Z. Li et al.                                                                                                                                                                                                               Heliyon  10 (2024)  e37712  
+6 3.6. Evaluation of treatment evidence
+The genomic aberrations including somatic and germline variants in DDR pathway of adult-type diffuse gliomas were annotated 
+based on the clinical actionability from OncoKB database. There were four therapeutic levels, including FDA-approved drugs, standard 
+care, clinical evidence and biological evidence. Although GBM had 32.6 % of unknown selection, 9.3 % showed the treatment option at 
+level 1 (Fig. 6A and B). High recommendations were from BRAF, ATM, EGFR (Fig. 6C). The level 3 for astrocytoma and oligoden -
+droglioma was IDH1 inhibitor (Fig. 6C). These actionable molecular targets offered promising options for patients with adult-type 
+diffuse gliomas in further treatment.
+3.7. Prognostic biomarkers for IDH-mutant, non-codeleted astrocytoma
+IDH was the prognostic marker for all adult-type gliomas. The mutations in key pathways were evaluated for their correlations with 
+prognosis in the three subtypes. PI3K alterations were frequent in GBM, which provided additional treatment options (Fig. 6C). 
+However, PIK3CA-PIK3R1 mutations were not significant predictive markers for prognosis in GBM. Patients with astrocytoma 
+harboring PIK3CA-PIK3R1 SNVs had a significantly worse OS in both TCGA and CGGA databases (Fig. 7A and B). Due to the number of 
+missing data of CNVs in CGGA, KM analysis of CDKN2A/B deletion and PI3K SNVs was only performed in TCGA. The patients 
+Fig. 5.Germline variants of DDR pathways. (A) Landscape of germline variants in our cohort; (B) Mutational frequencies of DDR genes across three 
+subtypes; (C) The number of mutations in DDR pathways across three subtypes.Z. Li et al.                                                                                                                                                                                                               Heliyon  10 (2024)  e37712  
+7 harboring both CDKN2A/B deletion and PIK3CA -PIK3R1 showed the worst OS (Fig. 7C). TERT p and chr 7/-10 in CGGA, PIK3CA - 
+PIK3R1 , EGFR amplification, chr 7/-10, age, gender and MGMT promoter methylation status from TCGA cohort were calculated by 
+multivariate Cox regression. The result suggested CDKN2A/B deletion (p 0.001, HR 4.05, 95 % CI 1.72 –9.52) and PIK3CA -PIK3R1 
+(p 0.003, HR 6.1, 95 % CI 1.88 –19.86) were the independent prognostic markers of astrocytoma (Table 2). AEBP1 amplification 
+was significantly associated with worse OS in our GBM cohort (p 0.031) (Fig. 7D) and tended to have a relatively shorter survival (p 
+0.068) in TCGA cohort (Fig. S4).
+4.Discussion
+The WHO classification of brain tumors may be further modified with the presence of novel molecular findings. In such a trend of 
+integrated histological and molecular diagnosis in CNS tumors, it is necessary to investigate the effective parameters based on an 
+appropriate detection method. WES is a powerful tool to discover molecular diagnostic and prognostic biomarkers [13]. In this study, 
+WES was used to analyze the genomic profiling of 66 patients with adult-type diffuse glioma. According to the mutational information, 
+9 cases changed the diagnosis, precise treatment options were provided and PIK3CA -PIK3R1 SNVs were identified as a prognostic 
+marker of astrocytoma.
+Clinically, various methods have been used to test the mutational status. For example, immunohistochemistry is used to detect the 
+specific antibodies of mutations including IDH1 R132H, H3 K27M and BRAF V600E [19], Sanger sequencing is performed to identify 
+the mutations in tumor DNA. Fluorescence in situ hybridization (FISH) is administered to test the chromosome structural variants 
+including chr 1p/19q and chr 7/-10 [20]. WES can integrate the multiple tests to perform a comprehensive genomic analysis for 
+Fig. 6.Levels of treatment options assigned to mutations observed in our cohort according to OncoKB database. The ratio (A) and number (B) of 4 
+levels in three subtypes; (C) Evidence levels of drugs based on the molecular markers of patients.Z. Li et al.                                                                                                                                                                                                               Heliyon  10 (2024)  e37712  
+8 patients with adult-type diffuse gliomas.
+IDH status and 1p/19q co-deletion were used to classify oligodendroglioma, astrocytoma and GBM defined by histology [6]. As-
+trocytoma or oligodendroglioma without IDH1/2 mutations was reclassified as IDH-WT, GBM. Therefore, more GBM patients were 
+defined in all three cohorts. A case harboring 1p36/19q deletion, ATRX and TP53 mutations diagnosed as oligodendroglioma ac-
+cording to histology was changed to astrocytoma. ATRX status was thought to have a higher diagnostic priority than 1p/19q 
+co-deletion, 1p/19q co-deletion oligodendroglioma with ATRX absent would be considered as astrocytoma [12]. In addition, 
+1p36/19q deletion identified by FISH was not equal to 1p/19q co-deletion, which was not detected by NGS. The differential diagnosis 
+of astrocytoma and oligodendroglioma based on molecular parameters still need to be explored.
+Our results demonstrated the high mutational frequencies of TP53 , ATRX , NF1, PTEN , TTN and EGFR and molecular features across 
+three subtypes, which were consistent with previous studies [21–23]. TERT p in our cohort was detected using WES, which was 
+different from TCGA and CGGA cohorts. Passenger mutations, such as TTN and RYR2 [21], were discovered frequently and their 
+function in cancer might be identified including addition of tumor mutational burden. Moreover, we also identified relatively higher 
+mutational frequencies of MUC16 , MUC17 and MUC19 in our cohort. MUC family mutations occurred commonly in cancer, MUC16 
+tended to be a favorable prognostic factor due to high immune infiltration in H3 G34-mutant diffuse hemispheric glioma [24].
+EGFR alterations in GBM included multiple patterns, such as SNVs, CNVs, and fusions [25]. The EGFR -targeted drugs mainly fell 
+into two categories: tyrosine kinase inhibitors (TKIs), such as gefitinib and erlotinib, and monoclonal antibodies (mAb) including 
+cetuximab and nimotuzumab [26]. Currently, no TKIs have been approved for patients with GBM [27], and less mutations in EGFR and 
+Fig. 7.Prognostic analysis based on Kaplan-Meier method. PIK3CA -PIK3R 1 mutant patients with astrocytoma showed a significantly worse OS than 
+wildtype patients in TCGA (A) and CGGA (B) databases; (C) Patients with astrocytoma harboring both PIK3CA -PIK3R 1 and CDKN2A/B deletion had 
+the worst OS, while the OS of patients with double wildtype was best; (D) GBM patients with AEBP1 amplification revealed a shorter OS than 
+wildtype patients in our cohort.
+Table 2 
+Multivariate Cox regression of clinical and molecular information in patients with astrocytoma from the TCGA.
+Variables P-value HR (95 % CI)
+Age≽60 years 0.916 0.93 (0.258 –3.376)
+Male 0.863 0.94 (0.457 –1.928)
+MGMT promoter unmethylated 0.727 0.82 (0.263 –2.537)
+chr 7/-10 0.998 2.61E-6 (0-Inf)
+EGFR amplification 0.763 0.88 (0.399 –1.963)
+CDKN2A/B deletion 0.001 4.05 (1.72 –9.52)
+PIK3CA -PIK3R1 0.003 6.1 (1.88 –19.86)Z. Li et al.                                                                                                                                                                                                               Heliyon  10 (2024)  e37712  
+9 PDGFRA were located at the intracellular domain. Therefore, mAb targeted to the extracellular domain might be more promising. WES 
+contributed to revising the diagnosis by detecting rare SNVs such as R132 L/G, E240Q of IDH1 . In our study, CDKN2A/CDKN2B 
+homozygous co-deletion occurred in 13 out of 43 cases. There is a study suggesting that homozygous co-deletion of CDKN2A and 
+CDKN2B frequently occurs in malignant gliomas [28].
+In our study, GBM showed the highest mutational heterogeneity in the adult-type diffuse gliomas, with aberrations mainly 
+converging on key pathways including cell cycle, RTK, PI3K, RAS and DDR. Different from oligodendroglioma, astrocytoma basically 
+had less alterations than GBM in such pathways. Telomere maintenance was required in proliferation of glioma, thus TERT p was 
+universal in GBM [29]. TERT p was also the molecular feature of oligodendroglioma, and showed significant mutual exclusivity with 
+both TP53 and ATRX , which was a characteristic of astrocytoma. The VAF of ATRX was insignificant between astrocytoma and GBM, 
+but astrocytoma tended to have a relatively high VAF of TP53 than GBM. Oligodendroglioma had the highest frequency of germline 
+variants in DDR pathway, especially in NER, BER, HRR and FA. These molecular differences across three subtypes may provide some 
+references for differential diagnosis and targeted intervention.
+Compared with more complicated regulation pathways like cell cycle and PI3K, RTK and DDR pathways presented more actionable 
+targeted markers. ATM mutations, germline and somatic variants of BRCA2 in HRR pathway could remind the patients of benefiting 
+from PARPi [30,31]. RTK aberrations including EGFR and MET provided the options of TKIs with ability in blood-brain barrier for 
+patients [32,33]. Currently, FDA has approved Tafinlar plus Mekinist for patients with solid tumors harboring BRAF V600E [34]. To 
+some extent, it offers a new selection for the subsequent therapy of two patients with BRAF V600E in our cohort.
+Regarding the prognostic factors of gliomas, IDH1/2 , 1p/19q codeletion, ATRX , BRAF were all confirmed to be the positive 
+prognostic markers, while TERT p, chr 7/-10, EGFR amplification were all negative predictors [7]. In our study, patients with as-
+trocytoma harboring PIK3CA or PIK3R1 mutation showed a significantly worse OS than those with WT in both TCGA and CGGA 
+cohorts. Survival analysis suggested PIK3CA-PIK3R1 and heterozygous CDKN2A/B deletion were the independent prognostic factor of 
+astrocytoma, which was proved by a previous study [12]. In cIMPACT-NOW Update 3, diffuse astrocytic glioma with molecular 
+features of GBM, TERT p, chr 7/-10 and EGFR amplification, was considered as WHO grade IV [11]. Aberrant PI3K signaling is 
+associated with more than 80 % of GBM cases [35]. Therefore, PIK3CA -PIK3R1 mutations were also negative prognostic markers of 
+diffuse astrocytic glioma. The follow-up of two astrocytoma cases with PI3K mutations in our cohort is in progress, and larger samples 
+are needed to validate the hypothesis. AEBP1 could promote glioma cell proliferation and invasion, and its overexpression was 
+correlated with short survival of GBM patients [36,37]. In our study, AEBP1 amplification was identified to be significantly associated 
+with worse OS in GBM, suggesting that AEBP1 amplification might be a prognostic marker for GBM.
+The current study may still benefit from a larger sample size for a more comprehensive research into mutations and SNVs of glioma 
+and a more accurate survival analysis in glioma patients. Functional validations of the identified biomarkers and predicted drugs in the 
+study need to be performed in larger cohorts for a practical realization of the manuscript.
+5.Conclusions
+We comprehensively characterized the mutational landscape of adult-type diffuse gliomas, and identified the differential diag-
+nostic, therapeutic, and prognostic biomarkers for patients. This analysis may provide new insights into the genesis, classification, 
+precise treatment and prognosis of glioma. In vivo validations of the identified biomarkers and evaluations of predicted drugs may 
+prove valuable for future studies of precision medicine in glioma treatment.
+Funding
+This work was supported by the Hunan Provincial Natural Science Foundation (No. 2024JJ5562) and Health Research Project of 
+Hunan Provincial Health Commission (grant number: D202304049299).
+Data availability statement
+The data used and/or analyzed during the current study are available from the corresponding author on reasonable request.
+Ethics approval and consent to participate
+Patients included in our study provided informed consent, and they consented to participate in non-routine care procedures such as 
+next generation sequencing. Collection and analysis of the samples were approved by the Institutional Review Board of Xiangya 
+Hospital Central South University (2024040377).
+Consent for publication
+All authors give full consent for publication.
+CRediT authorship contribution statement
+Zhenyan Li: Writing – original draft, Formal analysis, Conceptualization. Zhenghao Deng: Investigation, Formal analysis, Data Z. Li et al.                                                                                                                                                                                                               Heliyon  10 (2024)  e37712  
+10 curation. Fangkun Liu: Investigation, Formal analysis, Data curation. Chuntao Li: Investigation, Data curation. Kui Yang: Investi -
+gation, Data curation. Xuan Gong: Investigation, Data curation. Songshan Feng: Investigation, Data curation. Yu Zeng: Investigation, 
+Data curation. Hongshu Zhou: Investigation, Data curation. Fan Fan: Investigation, Data curation. Chengke Luo: Investigation, Data 
+curation. Zhixiong Liu: Writing – review & editing, Supervision. Mingyu Zhang: Writing – review & editing, Project administration, 
+Formal analysis, Conceptualization.
+Declaration of competing interest
+The authors declare that they have no known competing financial interests or personal relationships that could have appeared to 
+influence the work reported in this paper.
+Acknowledgements
+Not applicable.
+Appendix A.Supplementary data
+Supplementary data to this article can be found online at https://doi.org/10.1016/j.heliyon.2024.e37712 .
+References
+[1]K. Mitusova, et al., Overcoming the blood-brain barrier for the therapy of malignant brain tumor: current status and prospects of drug delivery approaches, 
+J. Nanobiotechnol. 20 (1) (2022) 412.
+[2]S. Rathore, et al., Multi-institutional noninvasive in vivo characterization of IDH, 1p/19q, and EGFRvIII in glioma using neuro-Cancer Imaging Phenomics 
+Toolkit (neuro-CaPTk), Neurooncol Adv 2 (Suppl 4) (2020) iv22 –iv34.
+[3]M.J. van den Bent, et al., Primary brain tumours in adults, Lancet 402 (10412) (2023) 1564 –1579 .
+[4]A. Perez, J.T. Huse, The evolving classification of diffuse gliomas: World Health organization updates for 2021, Curr. Neurol. Neurosci. Rep. 21 (12) (2021) 67.
+[5]D.N. Louis, et al., The 2016 World Health organization classification of tumors of the central nervous system: a summary, Acta Neuropathol. 131 (6) (2016) 
+803–820.
+[6]D.N. Louis, et al., The 2021 WHO classification of tumors of the central nervous system: a summary, Neuro Oncol 23 (8) (2021) 1231 –1251 (2021)Aug 2.
+[7]P. Sledzinska, et al., Prognostic and predictive biomarkers in gliomas, Int. J. Mol. Sci. 22 (19) (2021) .
+[8]D.N. Louis, et al., The 2021 WHO classification of tumors of the central nervous system: a summary, Neuro Oncol 23 (8) (2021) 1231 –1251 .
+[9]K. Aoki, et al., Prognostic relevance of genetic alterations in diffuse lower-grade gliomas, Neuro Oncol. 20 (1) (2018) 66–77.
+[10] D.J. Brat, et al., cIMPACT-NOW update 5: recommended grading criteria and terminologies for IDH-mutant astrocytomas, Acta Neuropathol. 139 (3) (2020) 
+603–608.
+[11] D.J. Brat, et al., cIMPACT-NOW update 3: recommended diagnostic criteria for "Diffuse astrocytic glioma, IDH-wildtype, with molecular features of 
+glioblastoma, WHO grade IV, Acta Neuropathol. 136 (5) (2018) 805–810.
+[12] B.T. Whitfield, J.T. Huse, Classification of Adult-type Diffuse Gliomas: Impact of the World Health Organization 2021 Update, 2022 e13062 .
+[13] M.F. Berger, E.R. Mardis, The emerging clinical relevance of genomics in cancer medicine, Nat. Rev. Clin. Oncol. 15 (6) (2018) 353–365.
+[14] M. Ceccarelli, et al., Molecular profiling reveals biologically discrete subsets and pathways of progression in diffuse glioma, Cell 164 (3) (2016) 550–563.
+[15] E. Ülgen, et al., Sequential filtering for clinically relevant variants as a method for clinical interpretation of whole exome sequencing findings in glioma, BMC 
+Med. Genom. 14 (1) (2021) 54.
+[16] Z. Lai, et al., VarDict: a novel and versatile variant caller for next-generation sequencing in cancer research, Nucleic Acids Res. 44 (11) (2016) e108.
+[17] K. Wang, M. Li, H. Hakonarson, ANNOVAR: functional annotation of genetic variants from high-throughput sequencing data, Nucleic Acids Res. 38 (16) (2010) 
+e164.
+[18] E. Talevich, et al., CNVkit: genome-wide copy number detection and visualization from targeted DNA sequencing, PLoS Comput. Biol. 12 (4) (2016) e1004873 .
+[19] D. Capper, et al., Assessment of BRAF V600E mutation status by immunohistochemistry with a mutation-specific monoclonal antibody, Acta Neuropathol. 122 
+(1) (2011) 11–19.
+[20] M.J. Riemenschneider, et al., Molecular diagnostics of gliomas: state of the art, Acta Neuropathol. 120 (5) (2010) 567–584.
+[21] F. Martínez-Jim ˘enez, I. Sentís, J. Deu-Pons, I. Reyes-Salazar, C. Arnedo-Pac, L. Mularoni, O. Pich, J. Bonet, H. Kranas, A. Gonzalez-Perez, N. Lopez-Bigas, 
+A compendium of mutational cancer driver genes, Nat. Rev. Cancer 20 (10) (2020) 555–572.
+[22] S. Zheng, et al., Prospective clinical sequencing of adult glioma 18 (5) (2019) 991–1000 .
+[23] R.A. Vaubel, S. Tian, D. Remonde, Genomic and phenotypic characterization of a broad panel of patient-derived xenografts reflects the diversity of glioblastoma 
+26 (5) (2020) 1094 –1104 .
+[24] W. Hu, et al., High frequency of PDGFRA and MUC family gene mutations in diffuse hemispheric glioma, H3 G34-mutant: a glimmer of hope? J. Transl. Med. 20 
+(1) (2022) 64.
+[25] C.W. Brennan, et al., The somatic genomic landscape of glioblastoma, Cell 155 (2) (2013) 462–477.
+[26] M.J. Xu, D.E. Johnson, J.R. Grandis, EGFR-targeted therapies in the post-genomic era, Cancer Metastasis Rev. 36 (3) (2017) 463–473.
+[27] G. Kim, Y.T. Ko, Small molecule tyrosine kinase inhibitors in glioblastoma, Arch Pharm. Res. (Seoul) 43 (4) (2020) 385–394.
+[28] M. Simon, et al., Functional evidence for a role of combined CDKN2A (p16-p14(ARF))/CDKN2B (p15) gene inactivation in malignant gliomas, Acta 
+Neuropathol. 98 (5) (1999) 444–452.
+[29] P.J. Killela, et al., TERT promoter mutations occur frequently in gliomas and a subset of tumors derived from cells with low rates of self-renewal, Proc. Natl. 
+Acad. Sci. U. S. A. 110 (15) (2013) 6021 –6026 .
+[30] C.J. Lord, A. Ashworth, PARP inhibitors: synthetic lethality in the clinic 355 (6330) (2017) 1152 –1158 .
+[31] F. Higuchi, et al., Restoration of temozolomide sensitivity by PARP inhibitors in mismatch repair deficient glioblastoma is independent of base excision repair, 
+Clin. Cancer Res. 26 (7) (2020) 1690 –1699 .
+[32] X. Liu, et al., The third-generation EGFR inhibitor AZD9291 overcomes primary resistance by continuously blocking ERK signaling in glioblastoma, J. Exp. Clin. 
+Cancer Res. 38 (1) (2019) 219.
+[33] T.F. Cloughesy, et al., Phase II study of cabozantinib in patients with progressive glioblastoma: subset analysis of patients with prior antiangiogenic therapy, 
+Neuro Oncol. 20 (2) (2018) 259–267.Z. Li et al.                                                                                                                                                                                                               Heliyon  10 (2024)  e37712  
+11 [34] V. Subbiah, et al., Dabrafenib plus trametinib in patients with BRAF(V600E)-mutated biliary tract cancer (ROAR): a phase 2, open-label, single-arm, multicentre 
+basket trial, Lancet Oncol. 21 (9) (2020) 1234–1243 .
+[35] Comprehensive genomic characterization defines human glioblastoma genes and core pathways, Nature 455 (7216) (2008) 1061–1068 .
+[36] L. Cheng, et al., Adipocyte enhancer binding protein 1 (AEBP1) knockdown suppresses human glioma cell proliferation, invasion and induces early apoptosis, 
+Pathol. Res. Pract. 216 (2) (2020) 152790 .
+[37] M. Liu, et al., AEBP1 as a potential immune-related prognostic biomarker in glioblastoma: a bioinformatic analyses, Ann. Transl. Med. 9 (22) (2021) 1657 .Z. Li et al.                                                                                                                                                                                                               Heliyon  10 (2024)  e37712  
+12 

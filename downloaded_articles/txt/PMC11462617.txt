@@ -1,0 +1,1174 @@
+Free Neuropathology 5: 21 (2024) Michel Mittelbronn  
+doi: https://doi.org/10.17879/freeneuropathology -2024 -5809  page 1 of 16 
+ 
+ 
+ 
+ 
+Copyright: © 20 24 The author(s). This is an open access article distributed under the terms of the Creative Commons Attribution 4.0 Internation al License ( https://creativecommons.org/licenses/by/4.0/ ), 
+which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are cre dited, a link to the Creative Commons license is provided, and any changes are 
+indicated. The Creative Commons Public Domain Dedication waiver ( https://creativecommons.org/publicdomain/zero/1.0/ ) applies to the data made available in this article, unless otherwise stated.  
+ 
+Neurooncology: 2024 update  
+Michel Mittelbronn1–6 
+1 National Center of Pathology (NCP), Laboratoire national de santé (LNS), Dudelange, Luxembourg  
+2 Luxembourg Centre of Neuropathology (LCNP), Luxembourg  
+3 Department of Oncology (DONC) , Luxembourg Institute of Health (LIH) , Luxembourg, Luxembourg  
+4 Department of Life Sciences and Medicine , University of Luxembourg , Esch sur Alzette, Luxembourg  
+5 Luxembourg Centre for Systems Biomedicine (LCSB), University of Luxembourg , Esch -sur-Alzette, Luxembourg  
+6 Faculty of Science, Technology and Medicine (FSTM), University of Luxembourg, Esch -sur-Alzette, Luxembourg  
+Corresponding author:  
+Michel Mittelbronn  · National Center of Pathology (NCP) and Luxembourg Center of Neuropathology (LCNP)  · Laboratoire n ational de 
+santé (LNS)  · 1, rue Louis Rech  · 3555 Dudelange  · Luxembourg  
+michel.mittelbronn@uni.lu  
+Submitted: 1 4 August  202 4 · Accepted: 09 September 2 024 · Copyedited by: João Gama  · Published: 27 September  202 4 
+Abstract  
+As in previous years, including 2023, a major focus in the neurooncological area of neuropathology was put on 
+more precise and constantly faster diagnostic procedures, even reaching the level of ultra -fast intraoperative 
+diagnostics based on methylation pr ofiling. Neuropathological diagnostic precision and clinical follow -up treat-
+ment has been further increased by combining DNA methylation profiling with targeted panel sequencing. A few 
+new, molecularly defined tumor subtypes have been proposed, among other s, a glioneuronal tumor with ATRX  
+alteration, kinase fusion and anaplastic features (in its abbreviated form named GTAKA) and the de novo repli-
+cation repair deficient glioblastoma, IDH -wildtype both having either distinct prognostic or therapeutic implica-
+tions. Regarding the understanding of brain tumor development and progression, several novel mechanisms 
+have been presented which might also be considered as treatment targets in the future, such as a) autonomous 
+rhythmical Ca2+ oscillations in interconnect ed glioma cell networks driving tumor growth; b) transfer of mito-
+chondria from normal astrocytes to glioma cells enhancing proliferation and self -renewal; c) brain endothelial 
+cell remodeling upon matrix -metalloprotease 9 secretion by tumor cells metastasi zing into the CNS and d) anti -
+tumor activity of microglia in CNS metastasis of breast cancer. Finally, in contrast to previous years, several very 
+promising neurooncological treatment studies have been conducted, focusing on specific targets such as 
+H3K27M  or IDH1/2 mutations for which a proper neuropathological assessment is key. The continuous transla-
+tion of potential new treatment targets using faster and precise diagnostic procedures will further pave the way 
+for better individualized clinical care of n eurooncological patients.  
+ 
+Keywords:  Neurooncology, Neuropathology, Brain tumors, Glioblastoma, Brain metastasis  
+ Review  Free Neuropathology 5: 21 (2024) Michel Mittelbronn  
+doi: https://doi.org/10.17879/freeneuropathology -2024 -5809  page 2 of 16 
+ 
+ 
+ 
+Introduction  
+As in the previous year, the author’s aim for the 
+selection of the “top ten” paper series in the field of 
+neurooncology was to select an equilibrated mix of 
+high-quality manuscripts that provide new tumor  
+biological concepts, new tumor entities, new diag-
+nostic tools or approaches, and clinical studies with 
+specific targeted approaches, all touching the field 
+of neuropathology. This should not at all devalue  
+excellent papers in the field of neurooncology with 
+a different focus, such as neuroradiology, neuro-
+physiology or neuropsychology, but rather focus on 
+the central aims and scope of Free Neuropathology , 
+namely morphological or molecular techniques 
+based on bio specimens such as tissues, cells of  
+fluids. The search strategy for this year’s “neuroon-
+cology update” series was similar as previously de-
+scribed [Mittelbronn, 2023] . Whereas in 2022, a 
+major focus was put on studies focusing on profiling, 
+“omics” and new diagnostic applications, many 
+more cutting -edge studies presenting new tumor  
+biological mechanisms in the field of neurooncology 
+were published in 2023. One point that negatively 
+struck the author last year was the fact that despite 
+the large amount of pro filing data, very few studies 
+aimed at translati ng those findings into clinical  
+applications. It is a central paradigm of our field that 
+an excellent clinical treatment necessitates precise 
+and fast diagnosis as well as identification of specific 
+targets, allowing for the best individualized clinical 
+care. It is gratifying to see the development and  
+implementation of new treatment approaches to 
+address molecular targets that have been intro-
+duced in daily neuropathological routine over recent 
+years. Although  this year’s series also presents some 
+new tumor subtypes and further improvements in 
+diagnostic procedures, a larger part focuses on 
+novel, more basic tumor biological mechanisms, as 
+well as very promising clinical studies that aim to 
+treat brain tumors i n a more specific and individual-
+ized manner to complement or even replace the 
+classic neurooncological treatment triad of surgery, 
+radio - and chemotherapy. With this, the “top ten” 
+series in neurooncology for 2023 reads as follows:  1. Frequency -dependent MAPK  and NFkB path-
+way-activation by rhythmic Ca2+ oscillations as 
+potential treatment target in glioma [Hausmann 
+et al., 2023] . 
+2. GAP43 -dependent transfer of mitochondria 
+from astrocytes to glioma cells increasing cellu-
+lar proliferation and self -renewal [Watson et al., 
+2023] . 
+3. Brain endothelial cell remodeling by CNS meta-
+static cell -derived matrix -metalloprotease 9 
+(MMP9) as mechanism for extravasation  
+[Karreman et al., 2023] . 
+4. Microglia suppresses brain metastasis formation 
+in breast cancer [Evans et al., 2023] . 
+5. Proposal of a new tumor entity: Glioneuronal  
+tumor with ATRX alteration, NTRK gene fusion 
+and anaplastic features (GTAKA) [Bogumil et al., 
+2023] . 
+6. “De novo replication repair deficient glioblas-
+toma, IDH wildtype”: a new glioblastoma sub-
+type with implications for targeted treatment 
+[Hadad et al., 2023] . 
+7. Ultra -fast, machine -learning based intraopera-
+tive methylation profiling [Vermeulen et al., 
+2023] . 
+8. Multiomics neuropathology improving diagnos-
+tic precision, targeted therapy and detection of 
+cancer predisposition syndromes in pediatric 
+neurooncology [Sturm et al., 2023] . 
+9. Clinical vaccination study targeting H3K27M in 
+adult diffuse midline glioma [Grassl  et al., 2023] . 
+10. Clinical study in patients with IDH mutant low -
+grade glioma using an oral, brain -penetrant  
+inhibitor of mutant IDH1 and IDH2 enzymes 
+[Mellinghoff et al., 2023] . 
+Interdisciplinary discussions are important as 
+the key role of neuropathologica l shifts from being 
+purely diagnostic to prognostic to more and more 
+theranostic. An increased number of neurooncolog-
+ical patients are currently treated based on  
+biomarker -guided decisions jointly made in multidis-
+ciplinary molecular tumor boards [Renovanz et al., 
+2023] . As in many neurooncological centers the  
+immunohistochemical, DNA/RNA in -situ, genetic Free Neuropathology 5: 21 (2024) Michel Mittelbronn  
+doi: https://doi.org/10.17879/freeneuropathology -2024 -5809  page 3 of 16 
+ 
+ 
+ 
+and/or epigenetic biomarker analyses are per-
+formed by neuropathologists, it is imperative that 
+neuropathologists help to rapidly translate unequiv-
+ocal find ings from both basic tumor biological and 
+clinico -oncological studies into diagnostic or 
+theranostic tests to facilitate improved patient care.  
+The author strongly hopes that the selected pa-
+pers will both fascinate the readers and further stim-
+ulate discuss ions around neurooncological topics in 
+neuropathology.  
+1. Frequency -dependent MAPK and 
+NFkB pathway -activation by rhythmic 
+Ca2+ oscillations as potential treat-
+ment target in glioma [Hausmann  et 
+al., 2023].  
+It has been previous ly reported that glioma 
+cells are not only interconnected between each 
+other but also to neurons via microtubes enabling intercellular communication via calcium signaling 
+[Venkataramani et al., 2019] . Calcium signaling  
+induced by neuronal activity increase d the for-
+mation of glioma microtubes and cell invasion  
+[Venkataramani et al., 2022] . However, the exact 
+mechanisms how the intercellular communication 
+between neurons and glioma cells or uniquely 
+amongst glioma cells were still not fully deciphered. 
+In the  present study, Hausmann et al. showed that a 
+minor glioma cell fraction, accounting for only 1 –5 % 
+of all tumor cells is able to rhythmically trigger Ca2+ 
+oscillations [Hausmann et al., 2023] . Those cells  
+belong to the cellular fraction showing a considera-
+bly higher number of tumor microtube connections 
+to other glioma cells. As the Ca2+ oscillations in  
+glioma cells were not only observed in vivo  in the 
+presence of neurons but also in neuron -free cell  cul-
+ture conditions, one can assume that this pe riodic 
+activity is a glioma -cell autonomous mechanism.  
+This hypothesis was further corroborated by the 
+finding that blocking gap junction and/or tumor  
+ 
+Figure 1:  Rhythmic Ca2+ oscillation mechanism in glioma cell networks leading to enhanced malignancy v ia NF -kB and MAPK pathway 
+activation.  
+Free Neuropathology 5: 21 (2024) Michel Mittelbronn  
+doi: https://doi.org/10.17879/freeneuropathology -2024 -5809  page 4 of 16 
+ 
+ 
+ 
+microtube formation did not reduce the periodic 
+Ca2+ activity in this small glioma subpopulation, but 
+considerably reduced the related Ca2+ activity in the 
+intertumoral network. A pharmacol ogical screen  
+revealed that specific inhibition of the calcium -acti-
+vated potassium channel KCa3.1 reduced Ca2+ activ-
+ity also in those glioma cells. The respective potas-
+sium channel appears to be of interest in glioma  
+biology as implications for enhanced ma lignant  
+behavior, in particular enhanced glioma cell invasion 
+in the presence of KCa3.1, have been reported 
+[D'Alessandro et al., 2013; Turner et al., 2014] . 
+KCa3.1 -positive cells rhythmically stimulated Ca2+ 
+signaling at a mean frequency of 12.5 –12.7 mHz  (in 
+vivo) and 9.7 –11.3 mHz ( in vitro ) within the glioma 
+network, apparently a range in which also the MAPK 
+and NFkB pathways increase cell proliferation and 
+survival. Along this line, the inhibition or knockout of 
+KCa3.1 led to reduced MAPK and NFkB pathw ay 
+activity while its stimulation enhanced the activity of 
+both pathways. The knockdown of KCa3.1 was asso-
+ciated with significantly reduced glioma growth in 
+animal models and survival analyses of an openly  
+accessible patient cohort (The Cancer Genome Atlas  
+- TCGA) revealed that glioblastoma patients with 
+high KCa3.1 expression showed significantly worse 
+survival as compared to their counterpart with low 
+KCa3.1 expression. In summary, those findings point 
+to a new treatment option for glioblastoma patients 
+by targeting more specifically KCa3.1 thereby focus-
+ing on the cell population that seems to negatively 
+orchestrate the glioma cell network. Although it was 
+demonstrated that the cell state of rhythmically per-
+forming Ca2+ signaling is hierarchical, but highl y plas-
+tic, it still remains to be determined why only a very 
+small subpopulation of glioma cells acquire this 
+state at any given time (summary of the proposed 
+mechanism in Figure 1) . 
+2. GAP43 -dependent transfer of mito-
+chondria from astrocytes to glioma 
+cells increases cellular proliferation 
+and self -renewal [Watson et al., 2023].  
+It has previously been shown that brain cells  
+interact via tunneling nanotubes (TNT), in neoplastic 
+conditions also known as tumor microtubules (MTs), 
+by which larger cellular orga nelles such as mitochon-
+dria can be transferred. In particular, glioblastoma cell-derived mitochondria can be shuttled into non -
+neoplastic astrocytes that subsequently adapted to 
+tumor -like metabolism and hypoxia conditions  
+[Valdebenito et al., 2021] . The s tudy of Watson et 
+al. analyzed the reverse, namely how mitochondria 
+are transported from residual non -neoplastic astro-
+cytes to glioma cells and how this impacted glioma 
+cell function [Watson et al., 2023] . To elucidate this 
+question, the authors used diffe rent mouse and rat 
+glioma models with mitochondria and glioma cells 
+fluorescing in different colors. By doing so, they 
+could demonstrate that between 15 to 60 % of  
+glioma cells incorporated mitochondria of non -neo-
+plastic astrocytic, and to a lesser extent also micro-
+glial origin. It could further be shown that physical 
+contact betwee n non -neoplastic astrocytes and  
+glioma cells is necessary for mitochondrial transfer. 
+Inhibition of actin polymerization by cytochalasin B 
+reduced the mitochondrial transfer rate , indicating 
+an important role of actin cytoskeleton remodeling 
+as an underlying mechanism. Hypothesizing that the 
+actin -associated protein GAP43 that is involved in 
+neurite outgrowth could be implicated in this mech-
+anism, the authors knocked down GAP43 an d 
+observed significantly reduced mitochondrial trans-
+fer. Importantly, RNA sequencing showed an in-
+crease of gene activity related to electron transport 
+and mitochondrial organization therefore suggest-
+ing a functional implication of mitochondrial trans-
+fer. T his was corroborated by metabolic analyses 
+showing a higher basal and maximal respiration rate 
+in glioma cells having incorporated a higher number 
+of astrocyte -derived mitochondria. This glioma frac-
+tion was also more aerobic and energetic as com-
+pared to th eir counterpart with lower mitochondria 
+incorporation rate. In addition, amino acid and  
+nucleotide metabolism were significantly altered in 
+glioma cells with a higher transfer rate of mitochon-
+dria indicating a metabolic reprogramming that 
+might be importan t for pro -proliferative, antioxida-
+tive and various cell signaling processes. The first ev-
+idence that this mechanism might play an important 
+clinical role in neurooncology was observed in a 
+mouse glioma model in which animals with glioma 
+cells that incorpor ated astrocyte -derived mitochon-
+dria showed significantly shorter survival rates as 
+compared to glioma cells without mitochondria 
+transfer (summary of the proposed mechanism in 
+Figure 2) . Free Neuropathology 5: 21 (2024) Michel Mittelbronn  
+doi: https://doi.org/10.17879/freeneuropathology -2024 -5809  page 5 of 16 
+ 
+ 
+ 
+ 
+Figure 2:  Mitochondrial transfer from residual non -neoplastic astrocytes to glioma cells thereby conferring respiratory and metabolic 
+functions linked to glioma cell proliferation and tumorigenicity.  
+ 
+3. Brain endothelial cell remodeling by 
+CNS metastatic cell -derived matrix -
+metalloprotease 9 (MMP9) as a mech-
+anism for extravasation [Karreman et 
+al., 2023].  
+Brain metastases still constitute the most fre-
+quent malign ant CNS tumors, being much more  
+frequent than t heir primary CNS tumor counter-
+parts. There is a broad agreement on the key steps 
+of cancer cell extravasation from the bloodstream to 
+the CNS similarly to leukocyte extravasation includ-
+ing a) rolling/adhesion of cancer cells to brain endo-
+thelia, b) alterat ion of the blood -brain barrier (BBB) 
+permeability and c) trans -endothelial migration, 
+however, the exact underlying mechanisms are still 
+not fully understood [Alsabbagh et al., 2023] . Previ-
+ous observations, that primary cancer cells are able 
+to considerabl y change the structure of brain vessels 
+[Haskó et al., 2019] , prompted the authors to deci -pher more precisely the potential underlying mech-
+anism. By com bining fluorescent and electron  
+microscopy on murine brain metastasis models, the 
+authors were able to trace the moment of interac-
+tion between cancer and endothelial cells and study 
+those events at high resolution. The observed vascu-
+lar arrest of cancer cells was mainly seen at vessel 
+branch points where cancer cells acquired an elon-
+gated shape and surround ing vessels a significantly 
+dilated state with disorganized basement mem-
+branes. Furthermore, the moment of extravasation 
+could also be captured by showing tumor cell nuclei 
+both partly inside and outside of brain capillaries 
+with a nuclear diameter of less  than 1 µm. The most 
+prominent disruption of the basement membranes 
+was observed during the extravasation process of 
+cancer cells, without surpassing the astrocytic or  
+microglial cell layers. Brain capillaries affected by 
+cancer cell extravasation showed t hree major,  
+reproducible findings, namely a) the formation  
+of neo -lumina parallel to the pre -existing ones,  
+Free Neuropathology 5: 21 (2024) Michel Mittelbronn  
+doi: https://doi.org/10.17879/freeneuropathology -2024 -5809  page 6 of 16 
+ 
+ 
+ 
+ 
+Figure 3:  Alteration of brain endothelium upon interaction with MMP9 producing cancer cells.  
+b) formation  of endothelial cell projections and c) 
+obstruction of brain capillary lumina by swollen  
+endothelial cells (Figure 3) . Of note, those changes 
+were reversible within 4 days if cancer cells left the 
+respective blood vessel without performing extrava-
+sation. F urthermore, the faster cancer cells were 
+able to extravasate, the more successful the survival 
+rate of those cells was in the perivascular niche. 
+Once cancer cells successfully extravasated and 
+started perivascular metastatic growth, prominent 
+endothelial cell remodeling led to the formation of 
+capillary loops that followed  the localization of  
+tumor cells. The formation of capillary loops was 
+even a prerequisite for the formation of macrome-
+tastases. This mechanism was mediated by cancer 
+cell derived matrix metalloprotease 9 (MMP9). 
+Pharmacological or genetic inhibition of MMP9  
+expression led to significantly reduced endothelial 
+cell remodeling, extravasation of cancer cells, and 
+the formation of metastases. These findings contrib-
+ute to a better understanding  of brain metastasis 
+formation and may pave the way for new prevention 
+or treatment strategies.  4. Microglia suppress breast cancer 
+brain metastasis formation [Evans et 
+al., 2023].  
+Multiple studies have suggested a detrimental  
+role of microglia in the development and/or pro-
+gression of brain metastases [Izraely S et al., 2023; 
+Pukrop et al., 2010] . To overcome the issue of  
+distinguishing the contribution of primary cerebral 
+microglia from secondarily invaded cells of the mye-
+loid lineage (most importantly macrophages), the  
+authors chose a complex study design including  
+single cell RNA sequencing (scRNAseq) as well as  
+genetic and humanized mouse models approaches 
+[Evans et al., 2023] . In a murine breast carcinoma 
+brain metastasis m odel in which intracardiac injec-
+tion of tumor cells led to brain metastasis formation, 
+scRNAseq revealed stable pro -inflammatory expres-
+sion signatures related to cytokine production,  
+antigen processing and presentation, and inter-
+feron -beta responses. As th is signature was micro-
+glia-specific and only encountered upon brain  
+Free Neuropathology 5: 21 (2024) Michel Mittelbronn  
+doi: https://doi.org/10.17879/freeneuropathology -2024 -5809  page 7 of 16 
+ 
+ 
+ 
+ 
+Figure 4:  Proinflammatory microglial signature associated with activation of cytotoxic T and NK cells and inhibition of regulatory T ce lls 
+inhibiting brain metastasis growth.  
+metastasis formation, the authors hypothesized 
+that these transcriptional changes were related to 
+tumor cell sensing and pathological tissue altera-
+tions. An experimental depletion of microglial cells 
+using a genetic model with d eletion of a key super -
+enhancer in the Csf1r  locus was associated with  
+enhanced metastasis formation and reduced sur-
+vival rates. Mechanistically, the authors showed that 
+in the context of brain metastasis formation, micro-
+glial cells activate NK/NKT and CD8+ T cells, while  
+attracting relatively less immunosuppressive T regu-
+latory cells. Of note, experimental depletion of  
+effector T cells led to reduced antigen presentation 
+and IFN response in microglial cells, suggesting that 
+only the orchestrated interaction between both  
+cell types enables their full antitumoral capacity 
+(Figure 4) . The antitumoral responses were con-
+served in an additional experimental mouse model 
+with human microglial cells. The authors reanalyzed 
+data from an RNA sequencing study  from human 
+breast cancer brain metastasis patients [Varešlija et 
+al., 2019] . In line with their findings and hypotheses, this patient cohort demonstrated significantly 
+longer survival rates if breast cancer brain metasta-
+ses were associated with a high exp ression of canon-
+ical microglial markers indicating a higher tumor  
+infiltration by microglial cells. Although still many 
+scientific papers stress a pro -tumorigenic role of  
+microglial cells in primary and secondary brain  
+tumors, the findings of the present s tudy are also in 
+line with some human tissue -based studies describ-
+ing a beneficial contribution of microglial cells to 
+prolonged patient survival in glioblastoma [Zeiner et 
+al., 2019] . 
+5. Proposal of a new tumor entity: Glio-
+neuronal tumor with ATRX alterat ion, 
+NTRK gene fusion and anaplastic fea-
+tures (GTAKA) [Bogumil et al., 2023].  
+Although glioneuronal neoplasms constitute a 
+fairly rare group of brain tumors, new entities  
+belonging to this group are constantly emerging, 
+Free Neuropathology 5: 21 (2024) Michel Mittelbronn  
+doi: https://doi.org/10.17879/freeneuropathology -2024 -5809  page 8 of 16 
+ 
+ 
+ 
+mainly due to the increasing use of molecular meth-
+ods and respective analyses in larger, centralized  
+databases that allow for a faster collection of iso-
+lated rare cases. DNA methylation profiling revealed 
+a distinct new group of 20 cases (median age: 19 
+years) of mainly supratentorial (84 %)  location with 
+histologically glioneuronal features as compared to 
+a reference cohort of more than 100,000 patients. In 
+a more fine -tuned approach comparing those cases 
+with a reference cohort of 718 neuroepithelial  
+tumors, unsupervised, non -linear t -distr ibuted sto-
+chastic neighbor embedding (t -SNE) projection, this 
+distinct subgroup could be confirmed. Further de-
+tailed neuropathological and molecular pathological 
+analyses could be performed in 16 out of those 20 
+tumors. All tumors showed alterations of ATRX, 
+assessed by DNA sequencing and/or immunohisto-
+chemistry. In addition, all cases showed a potentially druggable gene fusion involving members of the  
+receptor tyrosine -kinase family, mainly NTRK1 -3. In 
+slightly more than half of the patients, homozygous 
+deletion of CDKN2A/B  was observed. The neuropa-
+thological assessment of those tumors showed iso-
+morphic, round, often condensed nuclei with peri-
+nuclear clearing, prominent mitotic indices and vas-
+cular proliferations. For this new entity, the pro-
+posed acronym “ GTAKA” is composed of its central 
+neuropathological and molecular features, namely 
+Glioneuronal Tumor with ATRX alteration, Kinase  
+fusion and Anaplastic features (Table 1) . At the  
+current stage, it is too early to provide precise prog-
+nostic estimations, however this new subgroup of 
+glioneuronal tumors with a median progression -free 
+survival of only 12.5 months seems to be clearly 
+more aggressive than many other, already estab-
+lished glioneuronal tumor entities.  
+ 
+Table 1:  Proposition of diagnostic criteria for Glioneuronal Tumor with ATRX alterations, Kinase fusion and Anaplastic features (“GTAKA”).  
+Free Neuropathology 5: 21 (2024) Michel Mittelbronn  
+doi: https://doi.org/10.17879/freeneuropathology -2024 -5809  page 9 of 16 
+ 
+ 
+ 
+6. “De novo replication repair deficient 
+glioblastoma, IDH wildtype”: a new 
+glioblastoma subtype  with implica-
+tions for targeted treatment [Hadad et 
+al., 2023].  
+Over decades, the treatment of glioblastoma 
+patients consisted of neurosurgical resection fol-
+lowed by radio -chemotherapy and is, however, still 
+associated with a detrimental prognosis. Despite  a 
+multitude of clinical studies, valid biomarkers for  
+potential targeted therapies are largely lacking 
+[Rodgers et al., 2024] . Therefore, it is highly im-
+portant to define glioblastoma subtypes, even if 
+they only occur at low percentages, that might ben-
+efit from new treatment approaches. In a recent 
+larger series of 459 consecutive glioblastoma  
+patients, 9 patients (2 %) with a biallelic inactivation 
+of a canonical mismatch repair gene (MSH2, MSH6 
+or MLH1) were identified, partly with a heterozy-
+gous germlin e mutation (indicating an underlying 
+Lynch syndrome) in a part of the glioblastoma  
+patients [Hadad et al., 2023] . While overall muta-
+tion rate was significantly increased in this tumor 
+group, they showed lower rates of classic genetic  
+glioblastoma alterations such as trisomy of chromo-
+some 7, monosomy of chromosome 10, TERT pro-
+moter mutation, EGFR amplification or homozygous CDKN2A deletion. In 3 out of those 9 patients, addi-
+tional mutations in the proofreading domain of the 
+DNA polymera se POLE  were detected being associ-
+ated with an ultrahypermutational state of more 
+than 100 mutations per megabase. Of note, the  
+mismatch repair deficient (MRD) glioblastomas pre-
+sented as a giant cell variant of glioblastoma and 
+DNA methylation profile eith er matched with  
+“diffuse pediatric -type HGG, RTK1 subtype, subclass 
+A”, “adult -type diffuse HGG, IDH -wt, subtype E” or 
+did not match at all. Clinically, the median age at  
+ tumor occurrence was significantly lower (50 years) 
+in the MRD group as compared to non-MRD glioblas-
+toma patients (63 years). In addition, median overall 
+survival was more than twice as long (36.8 months) 
+in MRD glioblastoma as compared to non -MRD  
+patients (15.5 months). Microscopically, MRD glio-
+blastoma were associated with significantly  more 
+CD8+ cytotoxic T cells and microglia cells indicating a 
+stronger immune activation in the context of a  
+hypermutational state. As smaller studies demon-
+strated that some MRD glioblastoma patients radio-
+logically and clinically profited from immune check-
+point inhibition treatment, the identification of such 
+patients (Table 2)  is important [Bouffet et al., 2016] . 
+With this, a better clinical patient stratification  
+regarding improved survival times and suitability for 
+treatments with immune checkpoint inhib itors is 
+possible.  
+ 
+Table 2:  Clinical and neuropathological parameters that should trigger MMR and TMB testing in patients with high -grade gliomas.  
+Free Neuropathology 5: 21 (2024) Michel Mittelbronn  
+doi: https://doi.org/10.17879/freeneuropathology -2024 -5809  page 10 of 16 
+ 
+ 
+ 
+7. Ultra -fast, machine -learning based 
+intraoperat ive methylation profiling 
+[Vermeulen et al., 2023].  
+Methylation profiling considerably improved 
+the unbiased and precise classification of brain  
+tumors and was rapidly acknowledged as an essen-
+tial criterium for diagnostics of most brain tumor  
+entities by t he WHO guidelines [Capper et al., 2018; 
+WHO classification of brain tumors, 2021] . Most  
+institutions performing methylation profiling still 
+use an array -based approach for which the entire  
+laboratory process before bioinformatic analyses 
+takes approximately one week. However, for the  
+intraoperative surgical guidance and potentially  
+upcoming new treatment approaches with applica-
+tion of substances or cells directly in the tumor  
+ cavity, it might be important to have a precise, rapid 
+on-site diagno sis. As brain tumors are more and 
+more stratified according to molecular classes, an  
+ intraoperative histological assessment for primary 
+cerebral neoplasms is of limited interest in many 
+such cases. To overcome those obstacles, a fast  
+ genomic and epigenom ic assessment using  na-
+nopore sequencing had been previously developed 
+[Euskirchen et al., 2017] . The authors of the current 
+study applied nanopore sequencing in combination 
+with a neural network analysis (named “Sturgeon”) 
+to molecularly classify CNS tumor s intraoperatively 
+[Vermeulen et al., 2023] . In 45 out of 50 samples,  
+an accurate diagnosis was already obtained 40 min 
+after initiation of the sequencing procedure in a  
+retrospective cohort. After this highly promising 
+proof of concept results, the author s were able to 
+achieve intraoperative molecular diagnoses within a 
+turnaround time of 90 min. A major advantage of 
+the Sturgeon model is that it can be universally  
+used without retraining (see  https://g ithub.com/
+marcpaga/sturgeon ) on several different flow cell 
+types (e.g. MinION or PromethION using R9 and R10 
+chemistry). However, the method is still strongly  
+dependent on the tumor cell content. Therefore, a 
+concomitant mirroring histological assessment  of 
+the tissue assessed by the Sturgeon model could be 
+beneficial.  8. Multiomics neuropathology improv-
+ing diagnostic precision, targeted  
+therapy and detection of cancer pre-
+disposition syndromes in pediatric 
+neurooncology [Sturm et al., 2023].  
+Over the past decade, diagnostic improvement 
+in neuropathology was strongly linked to constantly 
+improved methylome profiling [https://www.mo-
+lecularneuropathology.org/ mnp  based on Capper 
+et al. 2018] . However, this approach has not yet con-
+tributed significantly to improved treatment  
+approaches, partially due to a lack of related prog-
+nostic data or information about underlying genetic 
+predisposition for tumor development that might be 
+additionally important for further clinical follow -up 
+[Farouk et al., 2021] . In their study, Sturm et al. 
+combined methylation profiling with targeted panel 
+sequencing in a cohort of more than 1,200 newly  
+diagnosed pediatric brain tumors [Sturm et al., 
+2023] . With this approach, they were able to 
+achieve a refined diagnosis in almost every second 
+case as c ompared to current WHO classification 
+alone. Moreover, in almost every second case, a  
+potential therapeutically relevant alteration was  
+detected and 15 % of all tumors revealed a directly 
+druggable genetic alteration with BRAF -V600E being 
+the most frequent  (7.4 %), followed by FGFR1/3 
+(4.0 %), ALK (0.8 %), NTRK2/3 (0.4 %), MET (0.1 %) 
+and RET (0.1 %). For 10 % of all cases an underlying 
+cancer predisposition syndrome was found, 
+amongst those, most frequently neurofibromatosis 
+type 1 (1.5 %), followed by TP5 3-related Li -Fraumeni 
+syndrome (1.2 %), constitutional mismatch repair 
+gene deficiency or Lynch syndrome including MLH1, 
+MSH2 and MSH6 genes (1.1 %), ataxia -telangiectasia 
+and ATM heterozygous carriers (0.9 %), neurofibro-
+matosis type 2 (0.8 %), DICER syndr ome (0.6 %) and 
+rhabdoid tumor predisposition syndrome 1 related 
+to SMARCB1 (0.4 %) were observed. Compared to 
+the initial cohort [Capper et al., 2018] , 3 % of  
+pediatric neurooncological cases in the present 
+study belong to potentially new tumor classes.  
+Of note, in up to one third of this pediatric patient  
+cohort, discordant results were obtained when  
+comparing standard WHO - and methylation -based 
+analyses, particularly for the children histologi - 
+cally displaying tumors with characteristics of a  Free Neuropathology 5: 21 (2024) Michel Mittelbronn  
+doi: https://doi.org/10.17879/freeneuropathology -2024 -5809  page 11 of 16 
+ 
+ 
+ 
+ 
+Table 3 : Molecular risk stratification classes for of pediatric high -grade gliomas otherwise classified according to CNS WHO grade 3 –4. The 
+molecular risk remains unknown for cases revealing high score for non -neoplastic control tissue or being unclassifiable in the DNA meth-
+ylation classifier. As the biological behavior is still unclear for pediatric brain tumor with PATZ1 or PLAGL1 fusion, those tumors were 
+excluded from the risk stratification.  
+ 
+high -grade  glioma. Taken into account that clinical 
+follow -up revealed that molecular profiling provides 
+a better clinical prediction for patient prognosis than 
+morphological assessment, it was highly recom-
+mended to implement multiomics neuropathologi-
+cal assessment in the diagnostic routine. The  
+present study still highlights the importance of 
+methylation profiling, as methylation data being  
+discordant to the initial neuropathological diagnosis 
+was considered as relevant in up to 70 % of the cases 
+discussed in interd isciplinary tumor boards. A very 
+useful tool of the study is the proposed molecular 
+risk stratification of pediatric high -grade gliomas 
+that have been classified according to CNS WHO 
+grade 3 –4 (Table 3) . Although the WHO classifica-
+tion would put such tumors in a very similar biologi-
+cal class, it has to be taken into account that their 
+clinical behavior might be very different and that multiomics, in particular methylation profiling, pro-
+vides a much more precise prediction in those cases. 
+Of note, the highly successful results of the present 
+study further had a strong impact on health politics. 
+German national health insurances now provide  
+financing for DNA methylation profiling and gene 
+panel sequencing ( for the latter in both tumor and 
+blood leukocyte samples) in parallel for every newly 
+diagnosed brain tumor case in children and adoles-
+cents, thereby changing the standard -of-care.  
+9. Clinical vaccination study targeting 
+H3K27M in adult diffuse midline  
+glioma [Grassl et al., 2023].  
+While mutations in histone H3 have been de-
+tected in several human tumors, the H3K27M muta-
+tion in diffuse gliomas of mainly younger patients 
+Free Neuropathology 5: 21 (2024) Michel Mittelbronn  
+doi: https://doi.org/10.17879/freeneuropathology -2024 -5809  page 12 of 16 
+ 
+ 
+ 
+constitutes a specific brain tumor entity usually 
+showing a detrimental clinical prognosi s [WHO  
+classification of brain tumors, 2021] . Although, 
+H3K27M mutant diffuse midline gliomas are incura-
+ble, the first promising results were obtained from 
+MHC -humanized mice showing a mutation specific 
+immune response to a H3K27M long peptide vaccine 
+[Och s et al., 2017] . This prompted the authors to 
+start a phase I clinical trial with 8 patients suffering 
+from a H3K27M -positive diffuse midline glioma 
+[Grassl et al., 2023] . All patients received a 27 -mer 
+peptide (p14 -40) including the mutant H3K27M  
+via bi -weekly subcutaneous injection over 6 weeks 
+followed by monthly administration for 4 months 
+and quarterly afterwards until disease progression. 
+The vaccine was well tolerated and without any  
+relevant higher -grade side effects. After 2 injections, 
+H3K27M -vacc ine related neoepitope -specific  im-
+mune responses (in blood and CSF) were detected  in 
+5 out of 8 patients and were associated with prom-
+ising neuroradiological findings showing  reduced  
+axial contrast enhancement. For patients from 
+which previous tumor materi al was accessible, a  
+colocalization of mutant H3K27M and HLA class -II-
+DR was detected, indicating that the neoepitope is 
+probably presented by antigen -presenting cells 
+which might lead to a stimulation of H3K27M -spe-
+cific T cells. Of note, the two patients of this phase I 
+study with the best clinical outcome after detection 
+of peripheral immune response also showed highest 
+numbers of HLA class -II-DR-positive cells associated 
+with mutant H3K27M which may indicate that  
+enhanced immune cell responses associated  with 
+mutant neoepitope presentation are responsible for 
+better patient prognosis. With this first human  
+vaccination trial for H3K27M mutant diffuse midline 
+glioma, the authors demonstrated patient safety 
+and neoepitope immune responses. As a most 
+promisin g finding, complete remission for more 
+than 31 months was achieved in one patient.  
+However, all other patients died within the study  
+period. To further improve the H3K27M vaccine -
+based effects, the authors propose to administer the 
+vaccine concomitantly wi th first line treatment to  
+increase the time for T cell mediated antitumoral  
+effects.  10. Clinical study in patients with IDH 
+mutant low -grade glioma using an 
+oral, brain -penetrant inhibitor of  
+mutant IDH1 and IDH2 enzymes  
+[Mellinghoff et al., 2023].  
+In 20 09, the detection of specific point  
+mutations in IDH1  and IDH2  genes in distinct brain 
+tumor entities, in particular diffuse astrocytoma and 
+oligodendroglioma, considerably changed the  
+neuropathological diagnostic approach paving the 
+way from a mainly histological to a more and more 
+molecular classification [Yan et al., 2009] . The most 
+frequently altered amino acid is 132 in IDH1  and 
+172 in IDH2 . Thus, those alterations make them a 
+promi sing treatment target. The application of the 
+dual IDH1 and IDH2 inhibitor Vorasidenib in an  
+ orthotopic murine glioma model showed consider-
+ably reduced 2 -hydroxyglutarate levels that acts  
+as an oncometabolite [Konteatis et al., 2020] . In 
+addition, it was demonstrated that Vorasidenib also 
+penetrated the brain of several non -human species 
+therefore showing its CNS bioavailability in preclini-
+cal models. This prompted several neurooncological 
+teams to test IDH1/IDH2 inhibitors in the clinical 
+context of which  the double -blind, phase 3 trial  
+of Mellinghoff and colleagues is one of the most  
+advanced studies for residual or recurrent CNS WHO 
+grade 2 glioma comprising 331 patients in total 
+[Mellinghoff et al., 2023] . The patients orally  
+received Vorasidenib or pla cebo daily until disease 
+progression or toxic treatment side effects occurred. 
+Vorasidenib treatment was mainly associated with 
+low-grade toxic side effects; however grade 3 or 
+higher side effects were observed in 22.8 % of the 
+patients in the Vorasidenib as compared to 13.5 %  
+in the placebo control group. Of note, only 1.8 %  
+of the patients treated with Vorasidenib showed  
+serious side effects, therefore showing a clinically 
+acceptable safety profile. The median progression -
+free survival was significantly i mproved upon 
+Vorasidenib treatment, reaching 27.7 months  
+compared to only 11.1 months in the placebo  
+control group. Furthermore, time to next follow -up 
+treatment was significantly longer in the 
+Vorasidenib treated patients for which the median 
+had not been  reached by the time of publication of 
+the study while the placebo group reached the  Free Neuropathology 5: 21 (2024) Michel Mittelbronn  
+doi: https://doi.org/10.17879/freeneuropathology -2024 -5809  page 13 of 16 
+ 
+ 
+ 
+median at 17.8 months. This study is another mile-
+stone on the way to more specific, efficacious and 
+safe brain tumor treatments. The US Food and Drug 
+Administration has no w approved Vorasidenib as a 
+systemic therapy for patients with Grade 2 astrocy-
+toma or oligodendroglioma with a susceptible IDH1 
+or IDH2 mutation, based largely on the result of this 
+study (see https://www.fda.gov/drugs/resources -
+information -approved -drugs/fda -approves -vorasid
+enib -grade -2-astrocytoma -or-oligodendroglioma -
+susceptib le-idh1 -or-idh2 -mutation ). 
+Discussion  
+In 2023, several novel pathogenic mechanisms 
+were published that might serve as potential targets 
+for oncological treatment approaches in the future. 
+However, it still remains to be determined if those 
+mechanisms can b e targeted with high specificity 
+without having negative side effects. For example, 
+spontaneous Ca2+ oscillations are key in the  
+modulation of glioneuronal synaptic information 
+[Goenaga et al., 2023] . Therefore, it is unclear if 
+rhythmic Ca2+ oscillations that activate frequency -
+dependent MAPK and NFkB pathway in the context 
+of brain tumors may be selectively targeted without 
+negatively impacting the normal neurophysiological 
+circuits [Hausmann et al., 2023] . To which degree  
+a potential inhibi tion of GAP43 -dependent transfer 
+of mitochondria from normal astrocytes to glioma 
+cells may slow down tumor growth also in the  
+human context has to be clarified [Watson et al., 
+2023] . Although it seems obvious that fresh and 
+healthy mitochondria transferre d to potentially  
+exhausted glioma cells may serve as a powerhouse, 
+a high metabolic plasticity has been reported for  
+glioma cells allowing for sustainable tumor propaga-
+tion via glycolytic energy production if mitochon-
+drial -type energy supply is impaired [Shibao et al., 
+2018] . This glioma cell feature may limit a treatment 
+approach targeting the intercellular transfer of  
+mitochondria between normal and neoplastic glial 
+cells. The findings regarding the involvement of  
+matrix -metalloprotease (MMP) in the proce ss of 
+brain metastasis formation may serve as another 
+promising therapeutic target in the prevention and 
+treatment of brain metastasis, especially as several 
+synthetic MMP inhibitors have been produced 
+[Karreman et al., 2023] . Unfortunately, to date, many oncological trials applying MMP inhibitors 
+failed because of either lack of efficacy or severe  
+adverse side effects [Lopez -Navarro and Gutierrez, 
+2022] . Finally, the tumor -suppressive effects of  
+microglia cells demonstrated in the context of brain 
+metastas is formation need a careful reassessment  
+in humans as to date still many studies claim a  
+promoting microglial effect for brain tumor for-
+mation [Evans et al., 2023] . As previous studies  
+in glioma have shown, the role of microglial cells  
+in brain tumors is p robably less black and white and 
+rather reflects a high cellular plasticity that is related 
+to intratumoral microenvironmental changes result-
+ing in both classic pro - and anti -tumoral features 
+within the same tumor [Zeiner et al., 2019] . In 
+summary, althoug h the aforementioned studies 
+provide fascinating findings about brain tumor 
+pathomechanisms, it seems to be too early to  
+concretely judge the related diagnostic and, most 
+importantly, therapeutic potential. In contrast, the 
+diagnostic and prognostic potent ial for the pro-
+posed new tumor entities seem to be clear. For the 
+glioneuronal tumor with ATRX alteration, NTRK gene 
+fusion and anaplastic features (GTAKA), the detri-
+mental clinical course that is rather unusual for 
+many glioneuronal tumors has to be stres sed 
+[Bogumil et al., 2023] . As GTAKA could be unequiv-
+ocally defined as a new class using methylation  
+classification, its diagnosis also seems to be straight-
+forward. The proposed new entity of “De novo  
+replication repair deficient glioblastoma, IDH 
+wildtype ” harbors a better prognosis as compared 
+to other glioblastoma variants [Hadad et al., 2023] , 
+and may also profit from checkpoint inhibitors. Both 
+diagnosis and treatment rely on a neuropathological 
+diagnostic approach requiring MMR and TMB test-
+ing in diff use high -grade gliomas: a) presenting  
+in patients with a younger median age (50 years)  
+as compared to conventional glioblastoma,  
+b) showing a giant cell morphology, and c) lacking 
+classic methylation or mutational features usually 
+observed in conventional glioblastoma (Table 2) . 
+The diagnostics of such new entities should also  
+be taken into account when developing new diag-
+nostic tools. The ultra -fast, machine -learning based 
+intraoperative methylation profiling can be applied 
+without retraining but it is sti ll based on methylation 
+data that has been published a few years ago  
+[Vermeulen et al., 2023] . It is therefore essential Free Neuropathology 5: 21 (2024) Michel Mittelbronn  
+doi: https://doi.org/10.17879/freeneuropathology -2024 -5809  page 14 of 16 
+ 
+ 
+ 
+that the neuropathological community aligns on 
+joint diagnostic standards, techniques and platforms 
+so that molecular profiling can ach ieve similar  
+results world -wide. This is even more important if 
+different layers of omics approaches are combined 
+[Sturm et al., 2023] . Over the recent years, neuro-
+pathology was always at the forefront regarding 
+technical development (e.g. methylation prof iling) 
+and diagnostic precision in oncology (e.g. entity  
+specific mutations such as IDH1/IDH2, H3K27M, 
+ATRX only to name a few), subsequently also  
+impacting other oncological domains. These devel-
+opments prompted an extremely rapid clinical trans-
+lation focu sing on specific drug targets such as 
+H3K27M, IDH1/IDH2 or MRD tumors [Hadad et al., 
+2023; Grassl et al., 2023; Mellinghoff et al., 2023] . 
+In conclusion, it is fascinating to see how fast the  
+improvements in diagnostic neuropathology with 
+the definition of  specific treatment targets reached 
+the bedside. After having shown drug safety and  
+initial clinical efficacy, larger clinical trials are now 
+necessary to define best treatment schemes.  Acknowledgements  
+The figures were prepared using https://bio-
+render.com  figure creation tool. The author would 
+like to thank Prof. Patrick Harter, Prof. David Capper, 
+Dr. Ann -Christin Hau, Prof. Joachim Steinbach, PD 
+Dr. Michael Ronellenfitsch and Prof. Werner Stenzel 
+for one or the other discussion around neuroonco-
+logical topicsdiscussed in this paper.  
+Conflicts of Interest Statement  
+The author does not have any conflict of  
+interest to declare.  
+Funding Statement  
+MM would like to thank the Luxembourg  
+National Research Fo nd (FNR) for the support (FNR 
+PEARL P16/BM/11192868 grant).  
+References
+1. Alsabbagh R, Ahmed M, Alqudah MAY, Hamoudi R, Harati R. 
+Insights into the Molecular Mechanisms Mediating Extravasation in 
+Brain Metastasis of Breast Cancer, Melanoma, and Lung Cancer. 
+Cancers (Basel). 2023 Apr 12;15(8):2258. 
+https://doi.org/10.3390/cancers15082258 . PMID: 37190188 . 
+2. Bogumil H, Sill M, Schrimpf D, Ismer B, Blume C, Rahmanzade R, 
+Hinz F, Cherkezov A, Banan R, Friedel D, Reuss DE, Selt F, Ecker J, Milde 
+T, Pajtler KW, Schittenhelm J, Hench J, Frank S, Boldt HB, Kristensen 
+BW, Scheie D, Melchior LC, Olesen V, Sehested A, Boué DR, Abdullaev 
+Z, Satgunaseelan L, Kurth I, Seidlitz A, White CL, Ng HK, Shi ZF, Haberler 
+C, Deckert M, Timmer M, Goldbrunner R, Tauziède -Espariat A, Varlet P, 
+Brandner S, Alexandrescu S, Snuderl M, Aldape K, Korshunov A, Witt O, 
+Herold -Men de C, Unterberg A, Wick W, Pfister SM, von Deimling A, 
+Jones DTW, Sahm F , Sievers P. Glioneuronal tumor with ATRX 
+alteration, kinase fusion and anaplastic features (GTAKA): a 
+molecularly distinct brain tumor type with recurrent NTRK gene 
+fusions. Acta Neuropathol. 2023 May;145(5):667 -680. 
+https://doi.org/10.1007/s00401 -023-02558 -0. PMID: 36933012 . 
+3. Bouffet E, Larouche V, Campbell BB, Merico D, de Borja R, Aronson 
+M, Durno C, Krueger J, Cabric V, Ramaswamy V, Zhuko va N, Mason G, 
+Farah R, Afzal S, Yalon M, Rechavi G, Magimairajan V, Walsh MF, 
+Constantini S, Dvir R, Elhasid R, Reddy A, Osborn M, Sullivan M, 
+Hansford J, Dodgshun A, Klauber -Demore N, Peterson L, Patel S, 
+Lindhorst S, Atkinson J, Cohen Z, Laframboise R, Dirks P, Taylor M, 
+Malkin D, Albrecht S, Dudley RW, Jabado N, Hawkins CE, Shlien A, 
+Tabori U. Immune Checkpoint Inhibition for Hypermutant Glioblastoma 
+Multiforme Resulting From Germline Biallelic Mismatch Repair 
+Deficiency. J Clin Oncol. 2016 Jul 1;34(19) :2206 -11. 
+https://doi.org/10.1200/JCO.2016.66.6552 . PMID: 27001570 . 
+4. Capper D, Jones DTW, Sill M, Hovestadt V, Schrimpf D, Sturm D, 
+Koelsche C, Sahm F, Chavez L, Reuss DE, Kratz A, Wefers AK, Huang K, Pajtler KW, Schweizer L, Stichel D, Olar A, Engel NW, Lindenberg K, 
+Harter PN, Braczynski AK, Plate KH, Dohmen H, Garvalov B K, Coras R, 
+Hölsken A, Hewer E, Bewerunge -Hudler M, Schick M, Fischer R, 
+Beschorner R, Schittenhelm J, Staszewski O, Wani K, Varlet P, Pages M, 
+Temming P, Lohmann D, Selt F, Witt H, Milde T, Witt O, Aronica E, 
+Giangaspero F, Rushing E, Scheurlen W, Geisenb erger C, Rodriguez FJ, 
+Becker A, Preusser M, Haberler C, Bjerkvig R, Cryan J, Farrell M, 
+Deckert M, Hench J, Frank S, Serrano J, Kannan K, Tsirigos A, Brück W, 
+Hofer S, Brehmer S, Seiz -Rosenhagen M, Hänggi D, Hans V, Rozsnoki S, 
+Hansford JR, Kohlhof P, Kri stensen BW, Lechner M, Lopes B, Mawrin C, 
+Ketter R, Kulozik A, Khatib Z, Heppner F, Koch A, Jouvet A, Keohane C, 
+Mühleisen H, Mueller W, Pohl U, Prinz M, Benner A, Zapatka M, 
+Gottardo NG, Driever PH, Kramm CM, Müller HL, Rutkowski S, von Hoff 
+K, Frühwald M C, Gnekow A, Fleischhack G, Tippelt S, Calaminus G, 
+Monoranu CM, Perry A, Jones C, Jacques TS, Radlwimmer B, Gessi M, 
+Pietsch T, Schramm J, Schackert G, Westphal M, Reifenberger G, 
+Wesseling P, Weller M, Collins VP, Blümcke I, Bendszus M, Debus J, 
+Huang A,  Jabado N, Northcott PA, Paulus W, Gajjar A, Robinson GW, 
+Taylor MD, Jaunmuktane Z, Ryzhova M, Platten M, Unterberg A, Wick 
+W, Karajannis MA, Mittelbronn M, Acker T, Hartmann C, Aldape K, 
+Schüller U, Buslei R, Lichter P, Kool M, Herold -Mende C, Ellison DW,  
+Hasselblatt M, Snuderl M, Brandner S, Korshunov A, von Deimling A, 
+Pfister SM. DNA methylation -based classification of central nervous 
+system tumours. Nature. 2018 Mar 22;555(7697):469 -474. 
+https://doi.o rg/10.1038/nature26000 . PMID: 29539639 . 
+5. D'Alessandro G, Catalano M, Sciaccaluga M, Chece G, Cipriani R, 
+Rosito M, Grimaldi A, Lauro C, Cantore G, Santoro A, Fioretti B, 
+Franciolini F, Wulff H , Limat ola C. KCa3.1 channels are involved in the 
+infiltrative behavior of glioblastoma in vivo. Cell Death Dis. 2013 Aug 
+15;4(8):e773. https://doi.org/10.1038/cddis.2013.279 . PMID: 
+23949222 . Free Neuropathology 5: 21 (2024) Michel Mittelbronn  
+doi: https://doi.org/10.17879/freeneuropathology -2024 -5809  page 15 of 16 
+ 
+ 
+ 
+6. Euskirchen P, Bielle F, Labreche K, Kloosterman WP, Rosenberg S, 
+Daniau M, Schmitt C, Masliah -Planchon J, Bourdeaut F, Dehais C, Marie 
+Y, Delattre JY, Idbaih A. Same -day genomic and epigenomic diagnosis 
+of brain tu mors using real -time nanopore sequencing. Acta 
+Neuropathol. 2017 Nov;134(5):691 -703. 
+https://doi.org/10.1007/s00401 -017-1743 -5. PMID: 286389 88. 
+7. Evans KT, Blake K, Longworth A, Coburn MA, Insua -Rodríguez J, 
+McMullen TP, Nguyen QH, Ma D, Lev T, Hernandez GA, Oganyan AK, 
+Orujyan D, Edwards RA, Pridans C, Green KN, Villalta SA, Blurton -Jones 
+M, Lawson DA. Microglia promote anti -tumour immunity and  suppress 
+breast cancer brain metastasis. Nat Cell Biol. 2023 Dec;25(12):1848 -
+1859. https://doi.org/10.1038/s41556 -023-01273 -y. PMID: 37957324 . 
+8. Farouk Sait S, Walsh MF, Karajannis MA. Genetic syndromes 
+predisposing to pediatric brain tumors. Neurooncol Pract. 2021 Feb 
+13;8(4):375 -390. https://doi.org/10.1093/nop/npab012 . eCollection 
+2021 Aug. PMID: 34277017 . 
+9. Goenaga J, Araque A, Kofuji P, Herrera Moro Chao D. Calcium 
+signaling in astrocytes and gliotransmitter release. Front Synaptic 
+Neurosci. 2023 Mar 2;15:1138577. 
+https://doi.org/10.3389/fnsyn.2023.1138577 . PMID: 36937570 . 
+10. Grassl N, Poschke I, Lindner K, Bunse L, Mildenberger I, Boschert T, 
+Jähne K, Green EW, Hülsm eyer I, Jünger S, Kessler T, Suwala AK, Eisele 
+P, Breckwoldt MO, Vajkoczy P, Grauer OM, Herrlinger U, Tonn JC, Denk 
+M, Sahm F, Bendszus M, von Deimling A, Winkler F, Wick W, Platten M, 
+Sahm K. A H3K27M -targeted vaccine in adults with diffuse midline 
+glioma . Nat Med. 2023 Oct;29(10):2586 -2592. 
+https://doi.org/10.1038/s41591 -023-02555 -6. PMID: 37735561 . 
+11. Hadad S, Gupta R, Oberheim Bush NA, Taylo r JW, Villanueva -
+Meyer JE, Young JS, Wu J, Ravindranathan A, Zhang Y, Warrier G, 
+McCoy L, Shai A, Pekmezci M, Perry A, Bollen AW, Phillips JJ, 
+Braunstein SE, Raleigh DR, Theodosopoulos P, Aghi MK, Chang EF, 
+Hervey -Jumper SL, Costello JF, de Groot J, Butows ki NA, Clarke JL, 
+Chang SM, Berger MS, Molinaro AM, Solomon DA. "De novo 
+replication repair deficient glioblastoma, IDH -wildtype" is a distinct 
+glioblastoma subtype in adults that may benefit from immune 
+checkpoint blockade. Acta Neuropathol. 2023 Dec 11;1 47(1):3. 
+https://doi.org/10.1007/s00401 -023-02654 -1. PMID: 38079020 . 
+12. Haskó J, Fazakas C, Molnár K, Mészáros Á, Patai R, Szabó G, Erdélyi 
+F, Nyúl -Tóth Á, Győri F, Kozma M, Farkas AE, Krizbai IA, Wilhelm I. 
+Response of the neurovascular unit to brain metastatic breast cancer 
+cells. Acta Neuropathol Commun. 2019 Aug 19;7(1):133. 
+https://d oi.org/10.1186/s40478 -019-0788 -1. PMID: 31426859 . 
+13. Hausmann D, Hoffmann DC, Venkataramani V, Jung E, Horschitz S, 
+Tetzlaff SK, Jabali A, Hai L, Kessler T, Azoŕin DD, Weil S, Kourtesakis A, 
+Sievers P,  Habel A, Breckwoldt MO, Karreman MA, Ratliff M, Messmer 
+JM, Yang Y, Reyhan E, Wendler S, Löb C, Mayer C, Figarella K, Osswald 
+M, Solecki G, Sahm F, Garaschuk O, Kuner T, Koch P, Schlesner M, Wick 
+W, Winkler F.  Autonomous rhythmic activity in glioma networ ks drives 
+brain tumour growth. Nature. 2023 Jan;613(7942):179 -186. 
+https://doi.org/10.1038/s41586 -022-05520 -4. PMID: 36517594  . 
+14. Izraely S, Ben -Menachem S, Malka S, Sagi -Assif O, Bustos MA, Adir 
+O, Meshel T, Chelladurai M, Ryu S, Ramos RI, Pasmanik -Chor M, Hoon 
+DSB, Witz IP.The Vicious Cycle of Melanoma -Microglia Crosstalk: Inter -
+Melanoma Variations in the Brain -Metastasis -Promoting  IL-
+6/JAK/STAT3 Signaling Pathway. Cells. 2023 May 30;12(11):1513. 
+https://doi.org/10.3390/cells12111513 . PMID: 37296634 . 
+15. Karreman MA, Bauer AT,  Solecki G, Berghoff AS, Mayer CD, Frey K, 
+Hebach N, Feinauer MJ, Schieber NL, Tehranian C, Mercier L, Singhal 
+M, Venkataramani V, Schubert MC, Hinze D, Hölzel M, Helfrich I, 
+Schadendorf D, Schneider SW, Westphal D, Augustin HG, Goetz JG, 
+Schwab Y, Wick W,  Winkler F. Active Remodeling of Capillary 
+Endothelium via Cancer Cell -Derived MMP9 Promotes Metastatic Brain Colonization. Cancer Res. 2023 Apr 14;83(8):1299 -1314. 
+https://doi.org/10.1158/0008 -5472.CAN -22-3964 . PMID: 36652557 . 
+16. Konteatis Z, Artin E, Nicolay B, Straley K, Padyana AK, Jin L, Chen Y, 
+Narayaraswamy R, Tong S, Wang F, Zhou D, Cui D, Cai Z, Luo Z, Fang C, 
+Tang H, Lv X, Nagaraja R, Yang H, Su SM, Sui Z, Dang L, Yen K, Popovici -
+Muller J, Codega P, Campos C, Mellinghoff IK, Biller SA. Vorasidenib 
+(AG-881): A First -in-Class, Brain -Penetrant Dual Inhibitor of Mutant 
+IDH1 and 2 for Treatment of Glioma. ACS Med Chem Lett. 2020 Jan 
+22;11 (2):101 -107. https://doi.org/10.1021/acsmedchemlett.9b00509 . 
+PMID: 32071674 . 
+17. Lopez -Navarro ER, Gutierrez J. Metalloproteinases and thei r 
+inhibitors in neurological disease. Naunyn Schmiedebergs Arch 
+Pharmacol. 2022 Jan;395(1):27 -38. https://doi.org/10.1007/s00210 -
+021-02188 -x. PMID: 34851449 . 
+18. Mellinghoff IK, van den Bent MJ, Blumenthal DT, Touat M, Peters 
+KB, Clarke J, Mendez J, Yust -Katz S, Welsh L, Mason WP, Ducray F, 
+Umemura Y, Nabors B, Holdhoff M, Hottinger AF, Arakawa Y, 
+Sepulveda JM, Wick W, Soffietti R, Perry JR, Gigl io P, de la Fuente M, 
+Maher EA, Schoenfeld S, Zhao D, Pandya SS, Steelman L, Hassan I, Wen 
+PY, Cloughesy TF; INDIGO Trial Investigators. Vorasidenib in IDH1 - or 
+IDH2 -Mutant Low -Grade Glioma. N Engl J Med. 2023 Aug 
+17;389(7):589 -601. https://doi.org/10.1056/NEJMoa2304194 . PMID: 
+37272516 . 
+19. Mittelbronn M. Neurooncology: 2023 update. Free Neuropathol. 
+2023 Mar 20;4:4 -4. https://doi.org/10.17879/freeneuropathology -
+2023 -4692 . PMID: 37283935 . 
+20. Ochs K, Ott M, Bunse T, Sahm F, Bunse L, Deumelandt K, Sonner 
+JK, Keil M, von Deimling A, Wick W, Platten M. K27M -mutant histone -3 
+as a novel target for glioma immunotherapy. Oncoimmunology. 2017 
+May 12;6(7):e1328340. 
+https://doi.org/10.1080/2162402X.2017.1328340 . PMID: 28811969 . 
+21. Pukrop T, Dehghani F, Chuang HN, Lohaus R, Bayanga K, 
+Heermann S, Regen T, Van Rossum D, Klemm F, Schulz M, Sia m L, 
+Hoffmann A, Trümper L, Stadelmann C, Bechmann I, Hanisch UK, 
+Binder C. Microglia promote colonization of brain tissue by breast 
+cancer cells in a Wnt -dependent way. Glia. 2010 Sep;58(12):1477 -89. 
+http s://doi.org/10.1002/glia.21022 . PMID: 20549749 . 
+22. Renovanz M, Kurz SC, Rieger J, Walter B, Becker H, Hille H, 
+Bombach P, Rieger D, Grosse L, Häusser L, Skardelly M, Merk DJ, 
+Paulsen F, Hoffmann E, Gan i C, Neumann M, Beschorner R, Rieß O, 
+Roggia C, Schroeder C, Ossowski S, Armeanu -Ebinger S, Gschwind A, 
+Biskup S, Schulze M, Fend F, Singer S, Zender L, Lengerke C, Brucker SY, 
+Engler T, Forschner A, Stenzl A, Kohlbacher O, Nahnsen S, Gabernet G, 
+Fillinger  S, Bender B, Ernemann U, Öner Ö, Beha J, Malek HS, Möller Y, 
+Ruhm K, Tatagiba M, Schittenhelm J, Bitzer M, Malek N, Zips D, 
+Tabatabai G. Clinical outcome of biomarker -guided therapies in adult 
+patients with tumors of the nervous system. Neurooncol Adv. 20 23 
+Feb 14;5(1):vdad012. https://doi.org/10.1093/noajnl/vdad012 . PMID: 
+36915613 . 
+23. Rodgers LT, Villano JL, Hartz AMS, Bauer B. Glioblastoma Standa rd 
+of Care: Effects on Tumor Evolution and Reverse Translation in 
+Preclinical Models. Cancers (Basel). 2024 Jul 24;16(15):2638. 
+https://doi.org/10.3390/cancers16152638 . PMID: 39123366 . 
+24. Shibao S, Minami N, Koike N, Fukui N, Yoshida K, Saya H, 
+Sampetrean O. Metabolic heterogeneity and plasticity of glioma stem 
+cells in a mouse glioblastoma model. Neuro Oncol. 2018 Feb 
+19;20(3):343 -354. https://doi.org/10.1093/neuonc/nox170 . PMID: 
+29016888 . 
+25. Sturm D, Capper D , Andreiuolo F, Gessi M, Kölsche C, Reinhardt A, 
+Sievers P, Wefers AK, Ebrahimi A, Suwala AK, Gielen GH, Sill M, 
+Schrimpf D, Stichel D, Hovestadt V, Daenekas B, Rode A, Hamelmann S, Free Neuropathology 5: 21 (2024) Michel Mittelbronn  
+doi: https://doi.org/10.17879/freeneuropathology -2024 -5809  page 16 of 16 
+ 
+ 
+ 
+Previti C, Jäger N, Buchhalter I, Blattner -Johnson M, Jones BC, 
+Warmuth -Metz M, Bison B, Grund K, Sutter C, Hirsch S, Dikow N, 
+Hasselblatt M, Schüller U, Koch A, Gerber NU, White CL, Buntine MK, 
+Kinross K, Algar EM, Hansford JR, Gottardo NG, Schuhmann MU, 
+Thomale UW, Hernáiz Driever P, Gnekow A, Witt O, Müller HL, 
+Calaminus G, F leischhack G, Kordes U, Mynarek M, Rutkowski S, 
+Frühwald MC, Kramm CM, von Deimling A, Pietsch T, Sahm F, Pfister 
+SM, Jones DTW. Multiomic neuropathology improves diagnostic 
+accuracy in pediatric neuro -oncology. Nat Med. 2023 Apr;29(4):917 -
+926.  https://doi.org/10.1038/s41591 -023-02255 -1. PMID: 36928815 . 
+26. Turner KL, Honasoge A, Robert SM, McFerrin MM, Sontheimer H. 
+A proinvasive role for the C a(2+) -activated K(+) channel KCa3.1 in 
+malignant glioma. Glia. 2014 Jun;62(6):971 -81. 
+https://doi.org/10.1002/glia.22655 . PMID: 24585442 . 
+27. Valdeben ito S, Malik S, Luu R, Loudig O, Mitchell M, Okafo G, Bhat 
+K, Prideaux B, Eugenin EA. Tunneling nanotubes, TNT, communicate 
+glioblastoma with surrounding non -tumor astrocytes to adapt them to 
+hypoxic and metabolic tumor conditions. Sci Rep. 2021 Jul 
+15;11( 1):14556. https://doi.org/10.1038/s41598 -021-93775 -8. PMID: 
+34267246 . 
+28. Varešlija D, Priedigkeit N, Fagan A, Purcell S, Cosgrove N, 
+O'Hallora n PJ, Ward E, Cocchiglia S, Hartmaier R, Castro CA, Zhu L, 
+Tseng GC, Lucas PC, Puhalla SL, Brufsky AM, Hamilton RL, Mathew A, 
+Leone JP, Basudan A, Hudson L, Dwyer R, Das S, O'Connor DP, Buckley 
+PG, Farrell M, Hill ADK, Oesterreich S, Lee AV, Young LS. Tran scriptome 
+Characterization of Matched Primary Breast and Brain Metastatic 
+Tumors to Detect Novel Actionable Targets. J Natl Cancer Inst. 2019 
+Apr 1;111(4):388 -398. https://doi.org/10.1093/jnci/djy110 . PMID: 
+29961873 . 
+29. Venkataramani V, Tanev DI, Strahle C, Studier -Fischer A, 
+Fankhauser L, Kessler T, Körber C, Kardorff M, Ratliff M, Xie R, 
+Horstmann H, Messer M, Paik SP, Knabbe J, Sahm F, Kurz FT, A cikgöz 
+AA, Herrmannsdörfer F, Agarwal A, Bergles DE, Chalmers A, Miletic H, 
+Turcan S, Mawrin C, Hänggi D, Liu HK, Wick W, Winkler F, Kuner T. 
+Glutamatergic synaptic input to glioma cells drives brain tumour 
+progression. Nature. 2019 Sep;573(7775):532 -538. 
+https://doi.org/10.1038/s41586 -019-1564 -x. PMID: 31534219 . 
+30. Venkataramani V, Yang Y, Schubert MC, Reyhan E, Tetzlaff SK, 
+Wißmann N, Botz M, S oyka SJ, Beretta CA, Pramatarov RL, Fankhauser 
+L, Garofano L, Freudenberg A, Wagner J, Tanev DI, Ratliff M, Xie R, Kessler T, Hoffmann DC, Hai L, Dörflinger Y, Hoppe S, Yabo YA, 
+Golebiewska A, Niclou SP, Sahm F, Lasorella A, Slowik M, Döring L, 
+Iavarone A,  Wick W, Kuner T, Winkler F. Glioblastoma hijacks neuronal 
+mechanisms for brain invasion. Cell. 2022 Aug 4;185(16):2899 -
+2917.e31. https://doi.org/10.1016/j.cell.2022.06.054 . PMID: 
+35914528 . 
+31. Vermeulen C, Pagès -Gallego M, Kester L, Kranendonk MEG, 
+Wesseling P, Verburg N, de Witt Hamer P, Kooi EJ, Dankmeijer L, van 
+der Lugt J, van Baarsen K, Hoving EW, Tops BBJ, de Ridder J. Ultra -fast 
+deep -learned CNS tumour classification during surgery. Natur e. 2023 
+Oct;622(7984):842 -849. https://doi.org/10.1038/s41586 -023-06615 -2. 
+PMID: 37821699 . 
+32. Watson DC, Bayik D, Storevik S, Moreino SS, Spro wls SA, Han J, 
+Augustsson MT, Lauko A, Sravya P, Røsland GV, Troike K, Tronstad KJ, 
+Wang S, Sarnow K, Kay K, Lunavat TR, Silver DJ, Dayal S, Joseph JV, 
+Mulkearns -Hubert E, Ystaas LAR, Deshpande G, Guyon J, Zhou Y, 
+Magaut CR, Seder J, Neises L, Williford SE , Meiser J, Scott AJ, 
+Sajjakulnukit P, Mears JA, Bjerkvig R, Chakraborty A, Daubon T, Cheng 
+F, Lyssiotis CA, Wahl DR, Hjelmeland AB, Hossain JA, Miletic H, Lathia 
+JD. GAP43 -dependent mitochondria transfer from astrocytes enhances 
+glioblastoma tumorigenicit y. Nat Cancer. 2023 May;4(5):648 -664. 
+https://doi.org/10.1038/s43018 -023-00556 -5. PMID: 37169842 . 
+33. World Health Organization Classification of Tumours of the Central 
+Nervous System. 5th ed. Lyon: International Agency for Research on 
+Cancer; 2021 . 
+34. Yan H, Parsons DW, Jin G, McLendon R, Rasheed BA, Yuan W, Kos 
+I, Batinic -Haberle I, Jones S, Riggins GJ, Friedman H, Friedman A, 
+Reardon D, Herndon J , Kinzler KW, Velculescu VE, Vogelstein B, Bigner 
+DD. IDH1 and IDH2 mutations in gliomas. N Engl J Med. 2009 Feb 
+19;360(8):765 -73. https://doi.org/10.1056/NEJMoa0808710 . PMID: 
+19228619 . 
+35. Zeiner PS, Preusse C, Golebiewska A, Zinke J, Iriondo A, Muller A, 
+Kaoma T, Filipski K, Müller -Eschner M, Bernatz S, Blank AE, 
+Baumgarten P, Ilina E, Grote A, Hansmann ML, Verhoff MA, Franz K, 
+Feuerhake F, Steinbac h JP, Wischhusen J, Stenzel W, Niclou SP, Harter 
+PN, Mittelbronn M. Distribution and prognostic impact of 
+microglia/macrophage subpopulations in gliomas. Brain Pathol. 2019 
+Jul;29(4):513 -529. https://doi.or g/10.1111/bpa.12690 . PMID: 
+30506802 . 
+ 

@@ -1,0 +1,419 @@
+Patterns of intersectional tumor 
+volumes in T2-weighted MRI and 
+[18F]FET PET in adult glioma: a 
+prospective, observational study
+Jonathan Weller1, Marcus Unterrainer2, Markéta Sonderer1, Sophie Katzendobler1, 
+Adrien Holzgreve3, Annamaria Biczok1, Patrick N. Harter4, Joerg-Christian Tonn1,5,  
+Nathalie L. Albert3 & Bogdana Suchorska5,6
+Brain tumor volumes as assessed by magnetic resonance imaging (MRI) do not always spatially 
+overlap with biological tumor volumes (BTV) measured by [18F]Fluoroethyltyrosine positron emission 
+tomography ([18F]FET PET). We prospectively investigated volumetric patterns based on the extent 
+of tumor volume overlap between the two modalities. Eighty-six patients with newly diagnosed 
+glioma who had undergone MRI and [18F]FET PET between 2007 and 2009 were included in this 
+prospective study and (re-)classified according to CNS WHO 2021 (Classification of Tumors of the 
+Central Nervous System by the World Health Organization). Four different patterns of volume overlap 
+were defined mathematically according to the extent of overlap between MRI-based T2 tumor 
+volume (non-enhancing tumor volume, nCEV) and BTVs. Progression-free (PFS) and overall survival 
+(OS) were determined. Seventy patients were diagnosed with isocitrate dehydrogenase wildtype 
+(IDHwt) glioblastoma and 16 with IDH-mutant glioma, respectively . The most common pattern was 
+characterized by a larger non-contrast-enhancing tumor volume (nCEV) that enclosed all or most of the 
+BTV and was observed in 46 patients (54%) (pattern 1). This pattern was more frequent in IDH-mutant 
+gliomas than in IDH-wildtype glioblastoma (81% versus 47%, p = 0.02). In multivariate analyses, 
+pattern 1 was associated with prolonged PFS (HR 0.59; 95 CI 0.34-1.0; p = 0.05), but not OS (HR 0.66; 
+95 CI 0.4–1.08; p = 0.1). For OS, presence of an IDH mutation ( p = 0.05) and lower age ( p = 0.03) were 
+associated with prolonged OS. The spatial relation between nCEV and BTV varies within and between 
+glioma entities. Most frequently, a larger nCEV encases the BTV. Some patients show spatially 
+dissociated nCEVs and BTVs. Not accounting for this phenomenon in surgery or radiotherapy planning 
+might lead to undertreatment.
+Keywords Imaging, Positron emission tomography, Glioma, Glioblastoma, Radiotherapy
+Gliomas are classified based on molecular and histological features as recommended by the World Health 
+Organization (WHO) and the Consortium to Inform Molecular and Practical Approaches to CNS Tumor 
+Taxonomy (cIMPACT)1–3. Overall, gliomas occur at an age-adjusted incidence rate of 4–6/100’000 population 
+per year4. Standard therapy for adult gliomas comprises tumor resection if safely feasible, radiotherapy, alkylating 
+agent chemotherapy and combinations thereof in high-grade and high-risk lower-grade gliomas5,6. Clinical 
+decision making, radiotherapy planning and response assessment in affected patients rely on non-invasive 
+imaging modalities such as magnetic resonance imaging (MRI). In addition to anatomic, MRI-based imaging, 
+amino acid-based positron emission tomography (PET) utilizing O-(2-[18F]fluorethyl)-L-tyrosine ([18F]FET 
+PET) provides valuable information on tissue vitality, metabolism and can be useful for prognostication7–11. 
+Recommendations on clinical use of PET in gliomas, especially in the context of therapy response assessment, have 
+been published by the Response Assessment in Neuro-Oncology working group (RANO group)7. PET-derived 
+1Department of Neurosurgery, LMU University Hospital, LMU Munich, Munich, Germany. 2Department of 
+Radiology, LMU University Hospital, LMU Munich, Munich, Germany. 3Department of Nuclear Medicine, LMU 
+University Hospital, LMU Munich, Munich, Germany. 4Center for Neuropathology and Prion Research, LMU 
+University Hospital, LMU Munich, Munich, Germany. 5German Consortium for Translational Cancer Research 
+(DKTK), Partner site Munich, Heidelberg, Germany. 6Department of Neurosurgery, Heidelberg University Hospital, 
+Heidelberg, Germany. email: Bogdana.Suchorska@med.uni-heidelberg.de
+OPEN
+Scientific Reports  |        (2024) 14:23071 1 | https://doi.org/10.1038/s41598-024-73681-5
+www.nature.com/scientificreportsbiological tumor volumes (BTVs) are often larger than contrast enhancing volume (CEV) portions in primarily 
+enhancing tumors, but smaller than the non-enhancing volume (nCEV) portions9. However, morphological 
+MRI-based tumor volumes might not always spatially overlap with BTV12. Comprehensive definition of a tumor 
+volume, potentially incorporating different imaging modalities, is essential for therapy planning, especially 
+for radiotherapy. Besides potential clinical implications regarding therapy planning, different volume patterns 
+might inherently be associated with molecular markers or outcome. One methodological approach might be 
+the definition of intersectional tumor volumes defining the pattern of overlap between MRI and PET volumes 
+prior to any therapeutic intervention, e.g., nCEV enclosed in BTV or vice versa: These intersectional volumes 
+have been shown to correlate with grading in anaplastic astrocytomas and glioblastomas12. Intersectional tumor 
+volume patterns could be investigated in an even more detailed fashion, e.g., as follows: nCEV larger that the 
+BTV and enclosing all or most of it (I), or conversely a BTV larger than the nCEV and enclosing all or most of 
+it (II), or similar volumes in both modalities with one overlapping the other (III), or lastly similar volumes that 
+show minimal overlap, but large exclusive volumes (IV).
+In this context, the aim of our study was to define different patterns mathematically and compare localization 
+and extent of anatomic tumor volumes as assessed by MRI with [18F]FET PET-based BTVs in newly diagnosed 
+glioma. We set out to investigate the patterns with regards to clinical and molecular parameters as well as 
+progression-free and overall survival.
+Materials and methods
+Setting and patient inclusion criteria
+Patients with newly diagnosed glioma between 2007 and 2009 who underwent histological sampling at the 
+Department of Neurosurgery of the LMU University Hospital Munich and were eligible for MRI and [18F]
+FET PET scans were included in this prospective study that was waived by our institutional ethics committee 
+(NCT01089244; all experimental protocols were approved by the Ethics Committee of the Faculty of Medicine 
+at LMU Munich; local project number: 325 − 11). The study was conducted in accordance with the Declaration 
+of Helsinki and institutional guidelines as well as regulations. Informed written consent to participate in the 
+study was obtained from all patients. Histopathological and molecular analyses were conducted at the Center for 
+Neuropathology at the LMU University Hospital Munich. The CNS WHO 2021 classification was applied to all 
+samples3. Informed consent was obtained from all patients during first inpatient treatment prior to first surgical 
+procedure, i.e., frame-based stereotactic biopsy or surgical tumor resection. In case of stereotactic biopsy and 
+in contrast-enhancing tumors, the enhancing foci were targeted according to a standardized protocoll13,14. 
+If applicable, areas with increased 18F]FET PET-uptake were targeted. Last follow-up was December 2022. 
+Reference points of progression-free survival (PFS) and overall survival (OS) were set as the date of first surgical 
+intervention to progression according to updated RANO criteria and date of death, respectively15,16. The datasets 
+used and/or analysed during the current study available from the corresponding author on reasonable request.
+Imaging (MRI and [18F]FET PET)
+Patients underwent MRI and [18F]FET PET scans within two weeks before invasive diagnostics by resection or 
+biopsy. MRI and [18F]FET PET had to be obtained with 7 days difference or less. T1 sequences with and without 
+contrast enhancement as well as T2 sequences were obtained in all patients. FLAIR sequences were not obtained 
+in all patients and analysed if available. MRI scans were performed on 1.5 and 3.0 Tesla scanners (Philips Intera 
+3T, Andover, MA and Signa HDxt, GE Healthcare, Milwaukee, WI, USA). Gadolinium-based contrast agent 
+(Gadopentetatedimeglumin, Magnevist, Schering, Berlin, Germany) was applied intravenously at a dose of 0.1 
+mmol/kg body weight. Tumor volumes in T2-weighted MRI scans was assessed through manual segmentation 
+(HERMES Workstation, HERMES Medical Solutions, Stockholm, Sweden) by a faculty neurosurgeon 
+specializing in glioma surgery. Furthermore, in cases where differentiation between edema and tumor tissue was 
+difficult, the senior investigator (B.S.) was consulted and made the final decision. For differentiation between 
+edema-related T2 alterations and putative nCEV , criteria described by Lasocki et al.  were used17. Accordingly, 
+edema typically spares grey matter, e.g., cortex and nuclei, while nCEV potentially invades grey matter. Edema 
+spreads concentrically along anatomical structures and respects their borders while nCEV inflates and distorts 
+brain parenchyma, oftentimes eccentrically. The hyperintensity of edema might be more pronounced and fades 
+towards the periphery, whereas nCEV is characterized by only mild T2/FLAIR hyperintensity. The mass effect of 
+edema might be less pronounced and, if large in size, be generalized. In comparison, T2 hyperintensity caused 
+by nCEV oftentimes presents with a focal mass effect and parenchyma expansion (Suppl. Table 1). Dynamic [18F]
+FET PET scans were acquired utilizing Siemens ECAT EXACT HR + scanner (Siemens Healthineers, Erlangen, 
+Germany). Fasting for six hours prior to image acquisition was mandatory. Approximately 180 MBq of [18F]
+FET PET was administered intravenously. Biological tumor volumes were measured by automated segmentation 
+using a threshold for determination of [18F]FET PET-positivity of 1.6 tumor-to-brain ratio (TBR)10,18–21. The 
+overlap between nCEV and BTV was determined by automated fusion of the two modalities after transferral to 
+the HERMES workstation and using HERMES Hybrid Viewer 2.5.
+Relative anatomical and biological tumor volumes
+Based on the extent of overlap between nCEV and BTV , four different patterns were defined (Fig.  1). The term 
+‘intersectional tumor volume’ is hereby defined as the overlapping volume between nCEV and BTV as assessed 
+by [18F]FET PET. The proportion of intersectional tumor volume to nCEV was defined as ‘x’ . Conversely, the 
+proportion of intersectional tumor volume to BTV was defined as ‘y’ .
+ x=intersectional tumor volume
+nCEV,y=intersectional tumor volume
+BTV
+Scientific Reports  |        (2024) 14:23071 2 | https://doi.org/10.1038/s41598-024-73681-5www.nature.com/scientificreports/Mathematically, patterns were defined as follows:
+Pattern 1, nCEV is twice as large as the BTV and encloses all or most of it:
+x
+y<0.5
+Pattern 2, BTV is twice as large as the nCEV and encloses all or most of it:
+x
+y>2.0
+Pattern 3, there is no pronounced predominance of either volume; the intersectional volume is at least half 
+the size of the respective exclusive volumes:
+0.5<x
+y<2.0and x>0.5;y>0.5
+Pattern 4, there is no pronounced predominance of either volume; the intersectional volume is less than half 
+the size of the respective exclusive volumes:
+0.5<x
+y<2.0and x<0.5;y<0.5
+Histopathology and molecular markers
+Histological diagnosis was established at the Center for Neuropathology of the LMU University Hospital 
+Munich according to the CNS WHO 2007 classification initially and retrospectively reevaluated in accordance 
+with the CNS WHO 2021 classification22,23. O6-methylguanine-DNA methyltransferase (MGMT) promoter 
+methylation status was determined through methylation-specific PCR24,25. IDH mutational status was assessed 
+using pyrosequencing of an 88-bp-long fragment for the IDH1  gene with codon 132 analysis and an 83-bp-long 
+fragment for the IDH2  gene with codon 172 analysis. Microsatellite markers were used to detect allelic loss of 
+chromosomes 1p and 19q.
+Treatment
+Treatment decisions were made based on interdisciplinary tumor board recommendations as well as in 
+accordance with patients’ preferences. Tumor-specific therapy comprised surgical glioma resection if safely 
+feasible, radiotherapy and alkylating agent chemotherapy26. Patients with glioblastoma were treated with 
+radiochemotherapy according to the Stupp protocol after histological sampling27.
+Fig. 1 . Schematic illustration and examples of different volume patterns in juxtaposition. Different patterns 
+were defined based on the extent of overlap between non-enhancing tumor volume and biological tumor 
+volume as determined by volumetric analysis of [18F]FET PET imaging. The number of patients in each group 
+and percentages are given. T2 = non-enhancing tumor volume in T2-weighted MRI-scan; PET = biological 
+tumor volume in [18F]FET PET. 
+Scientific Reports  |        (2024) 14:23071 3 | https://doi.org/10.1038/s41598-024-73681-5www.nature.com/scientificreports/Statistics
+Statistical analyses were performed utilizing SPSS 22.0 (SPSS, inc., Chicago, Illinois, USA) and GraphPad PRISM 
+9.4.1 (GraphPad software, inc., California, USA) software. Progression free survival (PFS) and overall survival 
+(OS) were investigated through Kaplan-Meier estimator. For comparison of categorical, demographic data, 
+chi-squared test and Fisher’s exact test were used if applicable. D’ Agostino-Pearson test was used to investigate 
+normal distribution. Parametric data was compared by means of Student’s t-tests and ANOV A. Non-parametric 
+data was compared by Mann-Whitney U-test and Kruskal-Wallis tests. Uni- and multivariate analyses were 
+performed through Cox proportional hazards regression models. Log-rank tests and Gehan-Breslow-Wilcoxon 
+tests, a test that gives more weight to deaths at early time points, were computed. Values for Gehan-Breslow-
+Wilcoxon tests were only given in addition and were specifically outlined. The values given in the figures are 
+based on Log-rank tests. P-values equal to or below 0.05 were termed significant.
+Results
+86 patients with newly diagnosed glioma between 2007 and 2009 were included in this study. All patients had 
+undergone preoperative MRI and [18F]FET PET imaging. Median age at diagnosis was 60 years (range 25–79 
+years) (Table  1). Diagnosis was IDHwt glioblastoma CNS WHO grade 4 in 70 patients (81%); IDH-mutant 
+(IDHmut) astrocytoma CNS WHO grade 4 in 3 patients (4%), IDHmut astrocytoma CNS WHO grade 3 in 3 
+patients (4%), IDHmut astrocytoma CNS WHO grade 2 in 4 patients (5%) and oligodendroglioma CNS WHO 
+grade 2 with 1p/19q-codeletion in 6 patients (7%). Ten patients (12%) showed no contrast enhancement on 
+initial MRI. MGMT promoter methylation was seen in 44 patients (51%). If safely feasible, tumor resection 
+was conducted prior to radiation or chemotherapy. 50 patients (58%) received stereotactic brain biopsy and 36 
+patients (42%) underwent tumor resection. Median follow-up time of surviving patients was 8.1 years, and only 
+14 patients (16%) were alive at database closure. 10 of 14 patients alive at data base closure had a IDHmut glioma. 
+Median follow-up of the surviving patients was 97 months.
+Intersectional volume patterns and outcome
+Pattern 1, i.e., a larger nCEV encasing all or most of the smaller BTV , was most prevalent among the entire 
+cohort and seen in 46 patients (54%). Patterns 2, 3 and 4 were similarly distributed and detected in 12 (14%), 
+15 (17%) and 13 (15%) patients respectively (Fig.  1). Within the glioblastoma cohort comprising 70 patients, 33 
+patients (47%) displayed pattern 1. Patterns 2, 3 and 4 were seen in 12 (17%), 14 (20%) and 11 (16%) patients 
+(Fig.  1). In patients with IDHmut gliomas, 13 (81%) were diagnosed with pattern 1. Patterns 2, 3 and 4 were 
+seen in one patient per pattern (6%). Thus, pattern 1 was observed at a significantly higher rate in patients with 
+IDHmut gliomas (patients with glioblastoma vs. patients with IDHmut glioma displaying pattern 1, 47% vs. 
+81%, p = 0.02).
+In the entire cohort, median PFS was 10.3 (range: 6.5–14.0) and median OS was 16.9 (range 8.3–25.6) months. 
+PFS and OS were longest in patients displaying pattern 1 with 10.4 and 29.8 months (Fig.  2). Shortest OS and PFS 
+were seen in patients with pattern 2 (PFS, in months, 5.0; OS, in months, 11.0) and pattern 4 (PFS, in months, 
+5.5; OS, in months, 11.0) (Fig.  2). These patterns were both defined by larger portions of the BTV being spatially 
+separated from the nCEV . Comparing pattern 1 ( n = 46) with pattern 2 and 4 ( n = 25), i.e., the two patterns with 
+larger exclusive BTVs, PFS was significantly longer in patients displaying pattern 1 (PFS, in months; 10.4 versus 
+5.3, p = 0.01) and there was a trend towards longer OS (OS, in months; 29.8 versus 11, p = 0.08) (Suppl. Fig. 1 ). 
+When looking exclusively at the glioblastoma cohort, there was no significant difference between the cohorts for 
+PFS ( p = 0.26) or OS ( p = 0.28) with Log-rank (Mantel-Cox) test, but the number of patients with patterns other 
+than pattern 1 were low (Fig.  3). When performing Gehan-Breslow-Wilcoxon test, survival was significantly 
+longer in patients with pattern 1 ( p = 0.04).
+Univariate and multivariate analysis
+In the entire cohort, established molecular and clinical parameters such as age, methylated MGMT promoter, 
+presence of an IDH mutation, lower CNS WHO grade and delay of therapy along with the intersectional volume 
+pattern 1 were associated with a favorable PFS and OS times (Table  2). In the glioblastoma group, the outcome 
+was comparable to the entire group (parameters such as CNS WHO grade, treatment and IDH status were not 
+Factor Number
+Patients 86
+Gender (f/m) 36/50
+Age, y (median, range) 60, 25–79
+KPS (median, range) 80, 40–100
+CNS WHO grade (n with grade 4: n with grade 3: n with grade 2) 73:9:4
+IDH mutational status  (n with IDH mutation: n with IDH wildtype) 16:70
+Surgical procedure
+ Biopsy 50
+ Tumor resection 36
+Table 1 . Patient characteristics. KPS Karnofsky performance status, CNS  central nervous system,   WHO  
+World Health Organization, IDH   isocitrate dehydrogenase. 
+Scientific Reports  |        (2024) 14:23071 4 | https://doi.org/10.1038/s41598-024-73681-5www.nature.com/scientificreports/applicable here); the imaging parameter pattern 1 did not retain its significance for PFS or OS (Table  2). In 
+multivariate analyses of the entire cohort, younger age was associated with longer progression-free and overall 
+survival times. Pattern 1 was associated with prolonged PFS, but not OS. Presence of an IDH mutation was 
+associated with longer OS (Table  3).
+Discussion
+Anatomic tumor volumes measured by MRI can differ from BTVs as assessed by amino- acid PET in patients 
+with newly diagnosed glioma. Several studies have previously shown that BTV is usually larger than the CEV , 
+but smaller than the nCEV in primarily contrast enhancing tumor entities7–9,12,28. Furthermore, besides mere 
+differences in size, the overlap of the corresponding tumor volumes is often low12. This phenomenon and its 
+clinical implications have not been investigated in detail yet. We aimed at defining different intersectional 
+volume patterns and report highly variable intersectional volume patterns among gliomas and poor prognosis of 
+patients with BTVs that were spatially dissociated from the nCEV .
+In this study, 86 patients with newly diagnosed glioma CNS WHO grades 2–4 were assigned to four different 
+groups according to the pre-interventional overlap pattern between nCEV (as defined by T2 tumor volume) 
+and BTV (Table  1). We found heterogenous spatial distributions of nCEVs and BTVs both in patients with 
+glioblastoma and patients with IDHmut glioma. Most patients (54%) showed a larger nCEV than BTV and 
+enclosing all or most of the BTV , termed pattern 1 (Fig.  1). This group showed the best prognosis. Patterns 
+characterized by larger BTV and small intersectional, i.e., spatially dissociated, tumor volumes showed shortest 
+PFS and OS times (Fig.  2). In multivariate analyses, pattern 1 and younger age were associated with longer PFS, 
+potentially hinting towards a therapeutic effect of targeting BTV and T2 tumor volume with regards to surgery 
+and radiotherapy planning as opposed to a potential undertreatment of patients displaying other patterns.
+Patients with IDHmut glioma displayed pattern 1 significantly more often than patients with glioblastoma 
+(81% versus 47%). Patient- and glioma derived prognostic factors did not differ from findings reported in large, 
+Fig. 2 . Progression-free survival (PFS) ( A,B) and overall survival (OS) ( C, D) of different intersectional tumor 
+volume patterns. Pattern 1 was associated with significantly longer PFS than other patterns individually and 
+combined (( A,B); p = 0.02 and p < 0.01). Pattern 1 was associated with longer OS than other patterns combined 
+((D), p = 0.02). Pattern 1: non-enhancing tumor volume (nCEV) is larger than the biological tumor volume 
+(BTV) and encloses all or most of it. Pattern 2: BTV is larger than nCEV and encloses all or most of it. Pattern 
+3: nCEV and BTV are similar in size and there are minimal exclusive tumor volumes. Pattern 4: nCEV and 
+BTV are similar in size, the exclusive tumor volumes are larger than the intersectional tumor volume. 
+Scientific Reports  |        (2024) 14:23071 5 | https://doi.org/10.1038/s41598-024-73681-5www.nature.com/scientificreports/ParametersOverall glioma group Glioblastoma group
+PFS OS PFS OS
+P HR (CI 95%) P HR (CI 95%) p HR (CI 95%) P HR (CI 95%)
+CNS WHO (2–4) < 0.01* 1.9 (1.3-3.0) < 0.01 3.14 (1.9–6.14) n.a
+MGMT status 
+(methylated)< 0.01* 0.31 (0.18–0.54) < 0.01 0.29 (0.17–0.49) 0.02* 0.52 (0.29–0.9) < 0.01 0.5 (0.3–0.85)
+IDH mutation present < 0.01* 0.25 (0.12–0.47) < 0.01 0.13 (0.05–0.28) n.a.
+Age* < 0.01* 1.04 (1.02–1.06) < 0.01 1.04 (1.02–1.06) 0.11 1.02 (1.0-1.05) 0.01 1.03 (1.01–1.05)
+Resection versus 
+biopsy0.28 0.44 (0.07–1.55) 0.94 0.98 (0.61–1.57) 0.480.47
+(0.03–2.55)0.21 0.72 (0.43–1.19)
+Treatment10.01* 1.52 (1.12–2.14) < 0.01 1.73 (1.26–2.48) n.a.
+Pattern 1 versus other 
+patterns< 0.01* 0.48 (0.29–0.81) < 0.01 0.53 (0.33–0.85) 0.19 0.7 (0.41–1.2) 0.16 0.7 (0.43–1.15)
+Table 2 . Univariate analyses for progression-free and overall survival. CNS  central nervous system, 
+WHO  World Health Organization, MGMT  O-6-methylguanine-DNA methyltransferase, IDH  isocitrate 
+dehydrogenase. *Continuous variable; 1“wait-and-see” , “chemotherapy only” ,  “radiation only” , 
+“radiochemotherapy” , PFS  progression free survival, OS overall survival. Significant values are in bold. 
+Fig. 3 . Progression-free survival (PFS) ( A,B) and overall survival (OS) ( C,D) of different intersectional tumor 
+volume patterns among patients with newly diagnosed glioblastoma. There were no significant differences 
+between the patterns in the glioblastoma cohort. Pattern 1: non-enhancing tumor volume (nCEV) is larger 
+than the biological tumor volume (BTV) and encloses all or most of it. Pattern 2: BTV is larger than nCEV 
+and encloses all or most of it. Pattern 3: nCEV and BTV are similar in size and there are minimal exclusive 
+tumor volumes. Pattern 4: nCEV and BTV are similar in size, the exclusive tumor volumes are larger than the 
+intersectional tumor volume. 
+Scientific Reports  |        (2024) 14:23071 6 | https://doi.org/10.1038/s41598-024-73681-5www.nature.com/scientificreports/prospective, clinical studies. Multivariate analyses showed a significant survival benefit in patients with younger 
+age at diagnosis and IDHmut gliomas.
+The relevance of nCEV for prognostication and therefore also treatment planning including resection and 
+radiotherapy was recently unraveled in several studies. Especially in IDHmut malignant glioma, both resection 
+as well as irradiation of the nCEV tumor portion have shown to be associated with improved outcome29–33. It 
+has to be assumed that the nCEV harbors a significant portion of active tumor cells that might be responsible for 
+a tumor recurrence28. This is in line with previous findings showing that glioblastoma recurrence often occurs 
+within pre-irradiated parenchyma or close to the original tumor margin. While the incorporation of nCEV 
+tumor part into irradiation planning might improve outcome, a too large resulting field of irradiation might be 
+associated with a higher treatment related toxicity. In consequence, modulation of radiation treatment planning 
+according to multiple imaging parameters, including PET derived BTV , might improve both tumor control and 
+prolong tumor relapse34. In addition, BTV has been shown to harbor prognostic information and large pre-
+therapeutic BTVs have already been reported to be associated with poor prognosis9. However, current treatment 
+plans oftentimes neglect amino-acid PET-derived BTV , although not taking BTV into account when planning 
+radiotherapy might be a risk factor for out of field recurrence. The clinical implication of targeting BTV to 
+prevent undertreatment has not yet been determined prospectively. Efforts are currently made to investigate the 
+role of BTV irradiation in recurrent glioblastoma in a clinical phase II trial (NCT01252459).
+Another interesting question is whether the different tumor volume intersection patterns might represent 
+differences in growth/invasiveness characteristics. Previous data suggested that different volume patterns might 
+to be associated with grading: Arbizu et al. reported divergent volume patterns in CNS WHO grade 3 and 4 
+gliomas12. Their data suggested a predominant pattern of BTV enclosed in larger MRI-volume in anaplastic 
+astrocytomas while an opposite pattern was noted in glioblastoma. Our study did not investigate this hypothesis, 
+however, our data show that different patterns can be found within one glioma entity. Further analyses are 
+needed to investigate predominant, entity-specific intersectional volume patterns.
+A limitation of this study might be a certain uncertainty concerning the delineation of nCEV as opposed to 
+perifocal edema on T2/FLAIR-weighted images. Despite applying criteria by Lasocki et al. , certain differentiation 
+is not yet possible on conventional imaging17. However, the inter-rater agreement for non-enhancing 
+glioblastoma tissue on preoperative MRI is good and can be improved by relying on experts for tumor volume 
+measurements35. This study is further limited by the low number of patients with IDHmut gliomas and the 
+high probability of intercorrelation between variables. MGMT status, age and treatment were significant factors 
+for outcome and all might be dependent on IDH mutational status. This renders multivariate analyses difficult 
+to interpret. While BTVs were utilized for surgery planning in all patients and our center is a tertiary referral 
+hospital, many patients received radiotherapy elsewhere and sufficient data on how often BTVs were utilized for 
+radiotherapy target delineation could not be gathered. Accordingly, our data does not allow for a conclusion on 
+the benefit of targeting BTV additionally. This question might be answered by the GLIAA-study (NCT01252459).
+In summary, we report a high variability in intersectional volume patterns in glioma. Most frequently, 
+the BTV is encased by the nCEV , but other patterns are not rare. Tumors that display a volume intersection 
+pattern with considerable BTV portion outside the corresponding nCEV might show shorter progression-free 
+survival. This might reflect a potential negative association between a mere MRI sequences-based surgery and 
+radiotherapy target volume planning resulting in a possible undertreatment of metabolically active glioma 
+tissue. Clinical trials evaluating inclusion of PET-derived volumes in treatment planning are urgently needed 
+and in part already ongoing.
+Data availability
+The datasets used and/or analysed during the current study available from the corresponding author on reason -
+able request.ParametersOverall glioma group
+PFS OS
+P HR (CI 95%) P HR (CI 95%)
+CNS WHO 
+(2–4)0.84 1.08 (0.47–2.22) 0.74 1.19 (0.38–3.18)
+IDH 
+mutation 
+present0.12 0.36 (0.08–1.14) 0.05* 0.19 (0.03–0.8)
+Age* 0.04* 1.02 (1.0-1.05) 0.03* 1.02 (1.0-1.05)
+Treatment10.68 0.91 (0.6–1.43) 0.65 0.91 (0.61–1.41)
+Pattern 
+1 versus 
+other 
+patterns0.05* 0.59 (0.34-1.0) 0.1 0.66 (0.4–1.08)
+Table 3 . Multivariate analyses for progression-free and overall survival. CNS  central nervous system, 
+WHO  World Health Organization, IDH  isocitrate dehydrogenase. *Continuous variable; 1“wait-and-see” , 
+“chemotherapy only” , “radiation only” , “radiochemotherapy”;  PFS  progression free survival, OS overall 
+survival. Significant values are in bold. 
+Scientific Reports  |        (2024) 14:23071 7 | https://doi.org/10.1038/s41598-024-73681-5www.nature.com/scientificreports/Received: 13 November 2023; Accepted: 19 September 2024
+References
+ 1. Brat, D. J. et al. cIMPACT-NOW update 5: recommended grading criteria and terminologies for IDH-mutant astrocytomas. Acta 
+Neuropathol. 139 (3), 603–608 (2020).
+ 2. Brat, D. J. et al. cIMPACT-NOW update 3: recommended diagnostic criteria for diffuse astrocytic glioma, IDH-wildtype, with 
+molecular features of glioblastoma, WHO grade IV . Acta Neuropathol.  136 (5), 805–810 (2018).
+ 3. Louis, D. N. et al. The 2021 WHO classification of tumors of the Central Nervous System: a summary. Neuro Oncology  23 (8), 
+1231–1251 (2021).
+ 4. Ostrom, Q. T. et al. CBTRUS Statistical Report: primary brain and other Central Nervous System tumors diagnosed in the United 
+States in 2013–2017. Neuro Oncology  22 (12 Suppl 2), iv1–iv96 (2020).
+ 5. Buckner, J. C., Chakravarti, A. & Curran, W . J.  Radiation plus chemotherapy in low-grade glioma. N. Engl. J. Med.  375 (5), 490–491 
+(2016).
+ 6. Weller, M. et al. EANO guidelines on the diagnosis and treatment of diffuse gliomas of adulthood. Nat. Rev. Clin. Oncol.  18 (3), 
+170–186 (2021).
+ 7. Albert, N. L. et al. Response assessment in neuro-oncology working group and European Association for Neuro-Oncology 
+recommendations for the clinical use of PET imaging in gliomas. Neuro Oncology  18 (9), 1199–1208 (2016).
+ 8. Jansen, N. L. et al. Prognostic significance of dynamic 18F-FET PET in newly diagnosed astrocytic high-grade glioma. J. Nucl. Med.  
+56 (1), 9–15 (2015).
+ 9. Suchorska, B. et al. Biological tumor volume in 18FET-PET before radiochemotherapy correlates with survival in GBM. Neurology  
+84 (7), 710–719 (2015).
+ 10. Unterrainer, M. et al. Biological tumour volumes of gliomas in early and standard 20–40 min (18)F-FET PET images differ 
+according to IDH mutation status. Eur. J. Nucl. Med. Mol. Imaging  45 (7), 1242–1249 (2018).
+ 11. Schneider, F. et al. Prognostic value of O-(2-[(18)F]-fluoroethyl)-L-tyrosine PET in relapsing oligodendroglioma. Acta Oncol.  59 
+(11), 1357–1364 (2020).
+ 12. Arbizu, J. et al. Quantitative volumetric analysis of gliomas with sequential MRI and (1)(1)C-methionine PET assessment: patterns 
+of integration in therapy planning. Eur. J. Nucl. Med. Mol. Imaging  39 (5), 771–781 (2012).
+ 13. Katzendobler, S. et al. Diagnostic yield and complication rate of stereotactic biopsies in Precision Medicine of Gliomas. Front. 
+Neurol.  13, 822362 (2022).
+ 14. Katzendobler, S. et al. The value of stereotactic biopsy of primary and recurrent brain metastases in the era of precision medicine. 
+Front. Oncol.  12, 1014711 (2022).
+ 15. Wen, P . Y . et al. Response Assessment in Neuro-Oncology clinical trials. J. Clin. Oncol.  35 (21), 2439–2449 (2017).
+ 16. Wen, P . Y . et al. Updated response assessment criteria for high-grade gliomas: response assessment in neuro-oncology working 
+group. J. Clin. Oncol.  28 (11), 1963–1972 (2010).
+ 17. Lasocki, A. & Gaillard, F. Non-contrast-enhancing tumor: a new frontier in glioblastoma research. AJNR Am. J. Neuroradiol.  40 (5), 
+758–765 (2019).
+ 18. Unterrainer, M. et al. Serial 18F-FET PET imaging of primarily 18F-FET-negative glioma: does it make sense? J. Nucl. Med.  57 (8), 
+1177–1182 (2016).
+ 19. Pauleit, D. et al. O-(2-[18F]fluoroethyl)-L-tyrosine PET combined with MRI improves the diagnostic assessment of cerebral 
+gliomas. Brain  128 (Pt 3), 678–687 (2005).
+ 20. Niyazi, M. et al. FET-PET for malignant glioma treatment planning. Radiother. Oncol.  99 (1), 44–48 (2011).
+ 21. Kaiser, L. et al. Differential spatial distribution of TSPO or amino acid PET Signal and MRI contrast enhancement in Gliomas. 
+Cancers (Basel)  14 (1) (2021).
+ 22. Louis, D. N. et al. The 2016 World Health Organization classification of tumors of the central nervous system: a summary. Acta 
+Neuropathol.  131 (6), 803–820 (2016).
+ 23. Louis, D. N. et al. The 2007 WHO classification of tumours of the central nervous system. Acta Neuropathol.  114 (2), 97–109 
+(2007).
+ 24. Grasbon-Frodl, E. M. et al. Intratumoral homogeneity of MGMT promoter hypermethylation as demonstrated in serial stereotactic 
+specimens from anaplastic astrocytomas and glioblastomas. Int. J. Cancer  121 (11), 2458–2464 (2007).
+ 25. Mollemann, M., Wolter, M., Felsberg, J., Collins, V . P . & Reifenberger, G. Frequent promoter hypermethylation and low expression 
+of the MGMT gene in oligodendroglial tumors. Int. J. Cancer  113 (3), 379–385 (2005).
+ 26. Weller, M. et al. EANO guidelines on the diagnosis and treatment of diffuse gliomas of adulthood. Nat. Rev. Clin. Oncol.  (2020).
+ 27. Stupp, R. et al. Radiotherapy plus concomitant and adjuvant temozolomide for glioblastoma. N. Engl. J. Med.  352 (10), 987–996 
+(2005).
+ 28. Harat, M., Miechowicz, I., Rakowska, J., Zarebska, I. & Malkowski, B. A biopsy-controlled prospective study of contrast-enhancing 
+diffuse glioma infiltration based on FET-PET and FLAIR. Cancers (Basel)  16 (7). (2024).
+ 29. Li, Y . M., Suki, D., Hess, K. & Sawaya, R. The influence of maximum safe resection of glioblastoma on vsurvival in 1229 patients: 
+can we do better than gross-total resection? J. Neurosurg.  124 (4), 977–988 (2016).
+ 30. Pessina, F. et al. Maximize surgical resection beyond contrast-enhancing boundaries in newly diagnosed glioblastoma multiforme: 
+is it useful and safe? A single institution retrospective experience. J. Neurooncol.  135 (1), 129–139 (2017).
+ 31. Molinaro, A. M. et al. Association of maximal extent of resection of contrast-enhanced and non-contrast-enhanced tumor with 
+survival within molecular subgroups of patients with newly diagnosed glioblastoma. JAMA Oncol.  6 (4), 495–503 (2020).
+ 32. Duma, C. M. et al. Upfront boost Gamma Knife leading-edge radiosurgery to FLAIR MRI-defined tumor migration pathways in 
+174 patients with glioblastoma multiforme: a 15-year assessment of a novel therapy. J. Neurosurg.  125 (Suppl 1), 40–49 (2016).
+ 33. Beiko, J. et al. IDH1 mutant malignant astrocytomas are more amenable to surgical resection and have a survival benefit associated 
+with maximal surgical resection. Neuro Oncology  16 (1), 81–91 (2014).
+ 34. Fleischmann, D. F. et al. Margin reduction in radiotherapy for glioblastoma through (18)F-fluoroethyltyrosine PET? - a recurrence 
+pattern analysis. Radiother. Oncol.  145, 49–55 (2020).
+ 35. Visser, M. et al. Inter-rater agreement in glioma segmentations on longitudinal MRI. Neuroimage Clin.  22, 101727 (2019).
+Author contributions
+J.W . and B.S. wrote the main manuscript text and performed statistical analyses. M.U., N.A. and B.S. designed 
+the study. M.S. collected clinical data. M.U. and A.B. performed volumetric measurements. S.K. updated the 
+follow-up. A.H. designed the figures. P .H. reclassified the gliomas according to WHO 2021. J.C.T. corrected the 
+main manuscript and conceptualized statistical analyses. All authors reviewed the manuscript.
+Scientific Reports  |        (2024) 14:23071 8 | https://doi.org/10.1038/s41598-024-73681-5www.nature.com/scientificreports/Funding
+Open Access funding enabled and organized by Projekt DEAL. Publication fee was financially supported by 
+Heidelberg University.
+Declarations
+Competing interests
+The authors declare no competing interests.
+Additional information
+Supplementary Information  The online version contains supplementary material available at https://doi.
+org/10.1038/s41598-024-73681-5 .
+Correspondence  and requests for materials should be addressed to B.S.
+Reprints and permissions information  is available at www.nature.com/reprints .
+Publisher’s note Springer Nature remains neutral with regard to jurisdictional claims in published maps and 
+institutional affiliations.
+Open Access   This article is licensed under a Creative Commons Attribution 4.0 International License, which 
+permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give 
+appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and 
+indicate if changes were made. The images or other third party material in this article are included in the article’s 
+Creative Commons licence, unless indicated otherwise in a credit line to the material. If material is not included 
+in the article’s Creative Commons licence and your intended use is not permitted by statutory regulation or 
+exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy 
+of this licence, visit http://creativecommons.org/licenses/by/4.0/ .
+© The Author(s) 2024 
+Scientific Reports  |        (2024) 14:23071 9 | https://doi.org/10.1038/s41598-024-73681-5www.nature.com/scientificreports/
